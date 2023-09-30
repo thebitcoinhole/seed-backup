@@ -1,0 +1,80 @@
+{
+  "id": "seedhammer",
+  "name": "Seedhammer",
+  "basic-information": {
+    "price": {
+      "value": "$599"
+    },
+    "amazon": {
+      "supported": false
+    }
+  },
+  "company": {
+    "brand": {
+      "value": "Seedhammer"
+    },
+    "headquarters": {
+      "value": "-"
+    },
+    "website": {
+      "value": "seedhammer.com",
+      "url": "https://seedhammer.com/"
+    },
+    "blog": {
+      "value": "seedhammer.com/article",
+      "url": "https://seedhammer.com/article/"
+    },
+    "twitter": {
+      "value": "@SeedHammer",
+      "url": "https://twitter.com/SeedHammer"
+    },
+    "nostr": {
+      "value": "-"
+    },
+    "youtube": {
+      "value": "@SeedHammer",
+      "url": "https://www.youtube.com/@SeedHammer"
+    }
+  },
+  "payment-methods": {
+    "btc-on-chain": {
+      "value": "YES (via BTCPay)",
+      "flag": "positive",
+      "supported": true
+    },
+    "btc-lightning": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
+    "alt-coins": {
+      "value": "NO",
+      "supported": false
+    },
+    "credit-debit-card": {
+      "value": "NO",
+      "supported": false
+    }
+  },
+  "size-materials": {
+    "warranty": {
+      "value": "?",
+      "flag": "positive",
+      "supported": true
+    },
+    "weight": {
+      "value": "?"
+    },
+    "dimensions": {
+      "value": "?"
+    },
+    "materials": {
+      "value": "?"
+    },
+    "waterproof": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    }
+  }
+}
