@@ -1,0 +1,112 @@
+{
+  "id": "keytag",
+  "name": "KeyTag",
+  "purchasable": true,
+  "basic-information": {
+    "price": {
+      "value": "$59"
+    },
+    "amazon": {
+      "supported": false
+    }
+  },
+  "company": {
+    "brand": {
+      "value": "OneKey"
+    },
+    "headquarters": {
+      "value": "Hong Kong"
+    },
+    "website": {
+      "value": "onekey.so",
+      "url": "https://onekey.so/"
+    },
+    "blog": {
+      "value": "blog.onekey.so",
+      "url": "https://blog.onekey.so/"
+    },
+    "twitter": {
+      "value": "@OneKeyHQ",
+      "url": "https://twitter.com/OneKeyHQ"
+    },
+    "nostr": {
+      "value": "-"
+    },
+    "youtube": {
+      "value": "-"
+    }
+  },
+  "payment-methods": {
+    "btc-on-chain": {
+      "value": "YES (via MixPay or Coinbase Commerce)",
+      "flag": "positive",
+      "supported": true
+    },
+    "btc-lightning": {
+      "value": "YES (via MixPay)",
+      "flag": "positive",
+      "supported": true
+    },
+    "alt-coins": {
+      "value": "YES (via MixPay or Coinbase Commerce)",
+      "supported": true
+    },
+    "credit-debit-card": {
+      "value": "YES",
+      "supported": true
+    }
+  },
+  "size-materials": {
+    "weight": {
+      "value": "14g / 0.49oz"
+    },
+    "dimensions": {
+      "value": "36 x 33.5 x 3 mm"
+    },
+    "materials": {
+      "value": "Titanium Alloy"
+    },
+    "water-proof": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "fire-proof": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    }
+  },
+  "backup-compatibility": {
+    "output-descriptor": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
+    "bip39-12-words": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "bip39-24-words": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "shamir-backup": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "hexadecimal-strings": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
+    "ascii-strings": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    }
+  }
+}
