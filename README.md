@@ -84,11 +84,17 @@ All the features supported:
 | Payment Methods to buy the device | payment-methods | BTC Lightning | btc-lightning |
 | Payment Methods to buy the device | payment-methods | Alt Coins | alt-coins |
 | Payment Methods to buy the device | payment-methods | Credit/Debit Card | credit-debit-card |
-| Size & Materials | size-materials | Warranty | warranty |
 | Size & Materials | size-materials | Weight | weight |
 | Size & Materials | size-materials | Dimensions | dimensions |
 | Size & Materials | size-materials | Materials | materials |
 | Size & Materials | size-materials | Waterproof | waterproof |
+| Size & Materials | size-materials | Fireproof | fireproof |
+| Backup Compatibility | backup-compatibility | Output Descriptor | output-descriptor |
+| Backup Compatibility | backup-compatibility | 12 Words BIP39 | bip39-12-words |
+| Backup Compatibility | backup-compatibility | 24 Words BIP39 | bip39-24-words |
+| Backup Compatibility | backup-compatibility | Shamir Backup SLIP39 | shamir-backup |
+| Backup Compatibility | backup-compatibility | Hexadecimal Strings | hexadecimal-strings |
+| Backup Compatibility | backup-compatibility | ASCII Strings | ascii-strings |
 
 ## Website
 

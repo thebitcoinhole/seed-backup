@@ -1,10 +1,10 @@
 {
-  "id": "seedhammer",
-  "name": "Seedhammer",
+  "id": "cryptosteel-cassette",
+  "name": "Cryptosteel Cassette",
   "purchasable": true,
   "basic-information": {
     "price": {
-      "value": "$599"
+      "value": "$190"
     },
     "amazon": {
       "supported": false
@@ -12,29 +12,29 @@
   },
   "company": {
     "brand": {
-      "value": "Seedhammer"
+      "value": "Cryptosteel"
     },
     "headquarters": {
-      "value": "-"
+      "value": "United Kingdom"
     },
     "website": {
-      "value": "seedhammer.com",
-      "url": "https://seedhammer.com/"
+      "value": "cryptosteel.com",
+      "url": "https://cryptosteel.com/"
     },
     "blog": {
-      "value": "seedhammer.com/article",
-      "url": "https://seedhammer.com/article/"
+      "value": "cryptosteel.com/blog",
+      "url": "https://cryptosteel.com/blog/"
     },
     "twitter": {
-      "value": "@SeedHammer",
-      "url": "https://twitter.com/SeedHammer"
+      "value": "@cryptosteel",
+      "url": "https://twitter.com/cryptosteel"
     },
     "nostr": {
       "value": "-"
     },
     "youtube": {
-      "value": "@SeedHammer",
-      "url": "https://www.youtube.com/@SeedHammer"
+      "value": "@Cryptosteel",
+      "url": "https://www.youtube.com/@Cryptosteel"
     }
   },
   "payment-methods": {
@@ -44,34 +44,28 @@
       "supported": true
     },
     "btc-lightning": {
-      "value": "YES",
+      "value": "YES (via BTCPay)",
       "flag": "positive",
       "supported": true
     },
     "alt-coins": {
-      "value": "NO",
-      "supported": false
+      "value": "YES (via BTCPay)",
+      "supported": true
     },
     "credit-debit-card": {
-      "value": "NO",
-      "supported": false
+      "value": "YES",
+      "supported": true
     }
   },
   "size-materials": {
     "weight": {
-      "value": "?"
+      "value": "480g / 16.9oz"
     },
     "dimensions": {
-      "value": "?"
+      "value": "253 x 182 x 27 mm"
     },
     "materials": {
-      "value": "Stainless steel",
-      "links": [
-        {
-          "title": "The SeedHammer Metal Plates",
-          "url": "https://seedhammer.com/article/the-seedhammer-metal-plates"
-        }
-      ]
+      "value": "Stainless steel"
     },
     "waterproof": {
       "value": "YES",
@@ -86,9 +80,9 @@
   },
   "backup-compatibility": {
     "output-descriptor": {
-      "value": "YES",
-      "flag": "positive",
-      "supported": true
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
   },
     "bip39-12-words": {
       "value": "YES",
@@ -101,19 +95,19 @@
       "supported": true
     },
     "shamir-backup": {
-      "value": "NO",
-      "flag": "negative",
-      "supported": false
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
     },
     "hexadecimal-strings": {
-      "value": "NO",
-      "flag": "negative",
-      "supported": false
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
     },
     "ascii-strings": {
-      "value": "NO",
-      "flag": "negative",
-      "supported": false
+      "value": "YES (up to 96 chars)",
+      "flag": "positive",
+      "supported": true
     }
   }
 }
