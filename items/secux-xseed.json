@@ -1,10 +1,10 @@
 {
-  "id": "secux-xseed-plus",
-  "name": "X-SEED Plus",
+  "id": "secux-xseed",
+  "name": "X-SEED",
   "purchasable": true,
   "basic-information": {
     "price": {
-      "value": "$59"
+      "value": "$39"
     },
     "amazon": {
       "supported": false
@@ -103,9 +103,9 @@
       "supported": true
     },
     "hexadecimal-strings": {
-      "value": "NO",
-      "flag": "negative",
-      "supported": false
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
     },
     "ascii-strings": {
       "value": "YES",
