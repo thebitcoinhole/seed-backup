@@ -83,7 +83,7 @@
       "value": "NO",
       "flag": "negative",
       "supported": false
-  },
+    },
     "bip39-12-words": {
       "value": "YES",
       "flag": "positive",
