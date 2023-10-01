@@ -1,0 +1,114 @@
+{
+  "id": "cryptotag-thor",
+  "name": "Cryptotag Thor",
+  "purchasable": true,
+  "basic-information": {
+    "price": {
+      "value": "$350"
+    },
+    "amazon": {
+      "supported": false
+    }
+  },
+  "company": {
+    "brand": {
+      "value": "Cryptotag"
+    },
+    "headquarters": {
+      "value": "Netherlands"
+    },
+    "website": {
+      "value": "cryptotag.io",
+      "url": "https://cryptotag.io/"
+    },
+    "blog": {
+      "value": "-"
+    },
+    "twitter": {
+      "value": "@CRYPTO_TAG",
+      "url": "https://twitter.com/CRYPTO_TAG"
+    },
+    "nostr": {
+      "value": "-"
+    },
+    "youtube": {
+      "value": "-"
+    }
+  },
+  "payment-methods": {
+    "btc-on-chain": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
+    "btc-lightning": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
+    "alt-coins": {
+      "value": "YES",
+      "supported": true
+    },
+    "credit-debit-card": {
+      "value": "YES",
+      "supported": true
+    }
+  },
+  "size-materials": {
+    "weight": {
+      "value": "210g / 7.4oz"
+    },
+    "dimensions": {
+      "value": "11.3 x 6.8 x 0.6 mm"
+    },
+    "materials": {
+      "value": "Titanium"
+    },
+    "water-proof": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "fire-proof": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true,
+      "texts": [
+        "All Cryptotag backup products have been tested in temperatures up to 1665°C / 3029 °F."
+      ]
+    }
+  },
+  "backup-compatibility": {
+    "output-descriptor": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
+    "bip39-12-words": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "bip39-24-words": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "shamir-backup": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "hexadecimal-strings": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
+    "ascii-strings": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    }
+  }
+}
