@@ -73,12 +73,12 @@
         }
       ]
     },
-    "waterproof": {
+    "water-proof": {
       "value": "YES",
       "flag": "positive",
       "supported": true
     },
-    "fireproof": {
+    "fire-proof": {
       "value": "YES",
       "flag": "positive",
       "supported": true

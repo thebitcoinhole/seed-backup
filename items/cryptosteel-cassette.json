@@ -67,15 +67,18 @@
     "materials": {
       "value": "Stainless steel"
     },
-    "waterproof": {
+    "water-proof": {
       "value": "YES",
       "flag": "positive",
       "supported": true
     },
-    "fireproof": {
+    "fire-proof": {
       "value": "YES",
       "flag": "positive",
-      "supported": true
+      "supported": true,
+      "texts": [
+        "Industrial-grade stainless steel plates can resist fire and temperature as high as 2649 °F / 1454 °C."
+      ]
     }
   },
   "backup-compatibility": {
@@ -100,9 +103,9 @@
       "supported": true
     },
     "hexadecimal-strings": {
-      "value": "YES",
-      "flag": "positive",
-      "supported": true
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
     },
     "ascii-strings": {
       "value": "YES (up to 96 chars)",

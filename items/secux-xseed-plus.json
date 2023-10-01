@@ -1,10 +1,10 @@
 {
-  "id": "cryptosteel-capsule",
-  "name": "Cryptosteel Capsule",
+  "id": "secux-xseed-plus",
+  "name": "X-SEED Plus",
   "purchasable": true,
   "basic-information": {
     "price": {
-      "value": "$94"
+      "value": "$59"
     },
     "amazon": {
       "supported": false
@@ -12,29 +12,29 @@
   },
   "company": {
     "brand": {
-      "value": "Cryptosteel"
+      "value": "SecuX"
     },
     "headquarters": {
-      "value": "United Kingdom"
+      "value": "Taiwan"
     },
     "website": {
-      "value": "cryptosteel.com",
-      "url": "https://cryptosteel.com/"
+      "value": "secuxtech.com",
+      "url": "https://secuxtech.com/"
     },
     "blog": {
-      "value": "cryptosteel.com/blog",
-      "url": "https://cryptosteel.com/blog/"
+      "value": "secuxtech.com/news-blog/#blog",
+      "url": "https://secuxtech.com/news-blog/#blog"
     },
     "twitter": {
-      "value": "@cryptosteel",
-      "url": "https://twitter.com/cryptosteel"
+      "value": "@SecuXwallet",
+      "url": "https://twitter.com/SecuXwallet"
     },
     "nostr": {
       "value": "-"
     },
     "youtube": {
-      "value": "@Cryptosteel",
-      "url": "https://www.youtube.com/@Cryptosteel"
+      "value": "@secux",
+      "url": "https://www.youtube.com/@secux"
     }
   },
   "payment-methods": {
@@ -44,25 +44,25 @@
       "supported": true
     },
     "btc-lightning": {
-      "value": "YES (via BTCPay)",
-      "flag": "positive",
-      "supported": true
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
     },
     "alt-coins": {
-      "value": "YES (via BTCPay)",
-      "supported": true
+      "value": "NO",
+      "supported": false
     },
     "credit-debit-card": {
-      "value": "YES",
-      "supported": true
+      "value": "NO",
+      "supported": false
     }
   },
   "size-materials": {
     "weight": {
-      "value": "540g / 19.2oz"
+      "value": "830g / 29oz"
     },
     "dimensions": {
-      "value": "253 x 181 x 25 mm"
+      "value": "105 x 180x 45 mm"
     },
     "materials": {
       "value": "Stainless steel"
@@ -75,14 +75,17 @@
     "fire-proof": {
       "value": "YES",
       "flag": "positive",
-      "supported": true
+      "supported": true,
+      "texts": [
+        "Industrial-grade stainless steel plates can resist fire and temperature as high as 2649 °F / 1454 °C."
+      ]
     }
   },
   "backup-compatibility": {
     "output-descriptor": {
       "value": "NO",
-      "flag": "negative",
-      "supported": false
+      "flag": "positive",
+      "supported": true
     },
     "bip39-12-words": {
       "value": "YES",
@@ -100,12 +103,12 @@
       "supported": true
     },
     "hexadecimal-strings": {
-      "value": "YES (up to 123 chars)",
-      "flag": "positive",
-      "supported": true
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
     },
     "ascii-strings": {
-      "value": "YES (up to 55 chars)",
+      "value": "YES",
       "flag": "positive",
       "supported": true
     }
