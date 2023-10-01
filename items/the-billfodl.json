@@ -1,0 +1,115 @@
+{
+  "id": "the-billfodl",
+  "name": "The Billfodl",
+  "purchasable": true,
+  "basic-information": {
+    "price": {
+      "value": "$99"
+    },
+    "amazon": {
+      "supported": false
+    }
+  },
+  "company": {
+    "brand": {
+      "value": "Privacy Pros"
+    },
+    "headquarters": {
+      "value": "?"
+    },
+    "website": {
+      "value": "privacypros.io",
+      "url": "https://privacypros.io/"
+    },
+    "blog": {
+      "value": "privacypros.io/blog",
+      "url": "https://privacypros.io/blog/"
+    },
+    "twitter": {
+      "value": "@Billfodl_Wallet",
+      "url": "https://twitter.com/Billfodl_Wallet"
+    },
+    "nostr": {
+      "value": "-"
+    },
+    "youtube": {
+      "value": "-"
+    }
+  },
+  "payment-methods": {
+    "btc-on-chain": {
+      "value": "YES (via Coinbase Commerce)",
+      "flag": "positive",
+      "supported": true
+    },
+    "btc-lightning": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
+    "alt-coins": {
+      "value": "YES (via Coinbase Commerce)",
+      "supported": true
+    },
+    "credit-debit-card": {
+      "value": "YES",
+      "supported": true
+    }
+  },
+  "size-materials": {
+    "weight": {
+      "value": "480g / 16.9oz"
+    },
+    "dimensions": {
+      "value": "253 x 182 x 27 mm"
+    },
+    "materials": {
+      "value": "Stainless steel"
+    },
+    "water-proof": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "fire-proof": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true,
+      "texts": [
+        "Industrial-grade stainless steel plates can resist fire and temperature as high as 2649 °F / 1454 °C."
+      ]
+    }
+  },
+  "backup-compatibility": {
+    "output-descriptor": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
+    "bip39-12-words": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "bip39-24-words": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "shamir-backup": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "hexadecimal-strings": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
+    "ascii-strings": {
+      "value": "YES (up to 96 chars)",
+      "flag": "positive",
+      "supported": true
+    }
+  }
+}
