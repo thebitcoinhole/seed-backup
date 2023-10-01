@@ -1,0 +1,116 @@
+{
+  "id": "safepal-cypher",
+  "name": "Safepal Cypher",
+  "purchasable": true,
+  "basic-information": {
+    "price": {
+      "value": "$44.99"
+    },
+    "amazon": {
+      "supported": false
+    }
+  },
+  "company": {
+    "brand": {
+      "value": "SafePal"
+    },
+    "headquarters": {
+      "value": "Singapore"
+    },
+    "website": {
+      "value": "safepal.io",
+      "url": "https://www.safepal.io/"
+    },
+    "blog": {
+      "value": "blog.safepal.io",
+      "url": "https://blog.safepal.io/"
+    },
+    "twitter": {
+      "value": "@iSafePal",
+      "url": "https://twitter.com/iSafePal"
+    },
+    "nostr": {
+      "value": "-"
+    },
+    "youtube": {
+      "value": "@SafePalWallet",
+      "url": "https://www.youtube.com/@SafePalWallet"
+    }
+  },
+  "payment-methods": {
+    "btc-on-chain": {
+      "value": "YES (via SafePal Pay)",
+      "flag": "positive",
+      "supported": true
+    },
+    "btc-lightning": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
+    "alt-coins": {
+      "value": "YES (via SafePal Pay)",
+      "supported": true
+    },
+    "credit-debit-card": {
+      "value": "YES",
+      "supported": true
+    }
+  },
+  "size-materials": {
+    "weight": {
+      "value": "190g / 6.7oz"
+    },
+    "dimensions": {
+      "value": "91 X 58 X 6 mm"
+    },
+    "materials": {
+      "value": "Stainless steel"
+    },
+    "water-proof": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "fire-proof": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true,
+      "texts": [
+        "The SafePal Cypher has a melting point of 2548°F/1398°C, and can comfortably withstand house fires where the average temperatures are 1500°F/815°C"
+      ]
+    }
+  },
+  "backup-compatibility": {
+    "output-descriptor": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
+    "bip39-12-words": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "bip39-24-words": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "shamir-backup": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "hexadecimal-strings": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
+    "ascii-strings": {
+      "value": "YES (up to 96 chars)",
+      "flag": "positive",
+      "supported": true
+    }
+  }
+}
