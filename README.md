@@ -2,7 +2,7 @@
 
 ## Introduction
 
-TODO
+Comparing seed phrase metal backup solutions feature by feature
 
 ## Collaboration
 
