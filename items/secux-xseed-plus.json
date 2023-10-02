@@ -85,7 +85,7 @@
     "output-descriptor": {
       "value": "NO",
       "flag": "negative",
-      "supported": true
+      "supported": false
     },
     "bip39-12-words": {
       "value": "YES",
