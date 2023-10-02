@@ -1,0 +1,116 @@
+{
+  "id": "keystone-tablet-plus",
+  "name": "Keystone Tablet Plus",
+  "purchasable": true,
+  "basic-information": {
+    "price": {
+      "value": "$49"
+    },
+    "amazon": {
+      "supported": false
+    }
+  },
+  "company": {
+    "brand": {
+      "value": "Keystone"
+    },
+    "headquarters": {
+      "value": "Hong Kong"
+    },
+    "website": {
+      "value": "keyst.one",
+      "url": "https://keyst.one/"
+    },
+    "blog": {
+      "value": "blog.keyst.one",
+      "url": "https://blog.keyst.one/"
+    },
+    "twitter": {
+      "value": "@KeystoneWallet",
+      "url": "https://twitter.com/KeystoneWallet"
+    },
+    "nostr": {
+      "value": "-"
+    },
+    "youtube": {
+      "value": "@KeystoneWallet",
+      "url": "https://www.youtube.com/@KeystoneWallet"
+    }
+  },
+  "payment-methods": {
+    "btc-on-chain": {
+      "value": "YES (via Open Node or Coinbase Commerce)",
+      "flag": "positive",
+      "supported": true
+    },
+    "btc-lightning": {
+      "value": "YES (via Open Node)",
+      "flag": "positive",
+      "supported": true
+    },
+    "alt-coins": {
+      "value": "YES (via Coinbase Commerce)",
+      "supported": true
+    },
+    "credit-debit-card": {
+      "value": "YES",
+      "supported": true
+    }
+  },
+  "size-materials": {
+    "weight": {
+      "value": "430g / 15.1oz"
+    },
+    "dimensions": {
+      "value": "105 x 70 x 6 mm"
+    },
+    "materials": {
+      "value": "Stainless steel"
+    },
+    "water-proof": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "fire-proof": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true,
+      "texts": [
+        "Fire threshold of 1399 to 1455°C / 2550 to 2651°F"
+      ]
+    }
+  },
+  "backup-compatibility": {
+    "output-descriptor": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
+    "bip39-12-words": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "bip39-24-words": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "shamir-backup": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "hexadecimal-strings": {
+      "value": "NO",
+      "flag": "positive",
+      "supported": true
+    },
+    "ascii-strings": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    }
+  }
+}
