@@ -76,6 +76,16 @@
       "value": "YES",
       "flag": "positive",
       "supported": true
+    },
+    "stress-tests": {
+      "value": "YES",
+      "supported": true,
+      "links": [
+        {
+          "title": "Jameson Lopp's stress tests",
+          "url": "https://jlopp.github.io/metal-bitcoin-storage-reviews/reviews/seedplate/"
+        }
+      ]
     }
   },
   "backup-compatibility": {

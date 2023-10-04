@@ -87,14 +87,16 @@ All the features supported:
 | Size & Materials | size-materials | Weight | weight |
 | Size & Materials | size-materials | Dimensions | dimensions |
 | Size & Materials | size-materials | Materials | materials |
-| Size & Materials | size-materials | Waterproof | water-proof |
-| Size & Materials | size-materials | Fireproof | fire-proof |
+| Size & Materials | size-materials | Water-proof | water-proof |
+| Size & Materials | size-materials | Fire-proof | fire-proof |
+| Size & Materials | size-materials | Stress tests | stress-tests |
 | Backup Compatibility | backup-compatibility | Output Descriptor | output-descriptor |
 | Backup Compatibility | backup-compatibility | 12 Words BIP39 | bip39-12-words |
 | Backup Compatibility | backup-compatibility | 24 Words BIP39 | bip39-24-words |
 | Backup Compatibility | backup-compatibility | Shamir Backup SLIP39 | shamir-backup |
 | Backup Compatibility | backup-compatibility | Hexadecimal Strings | hexadecimal-strings |
 | Backup Compatibility | backup-compatibility | ASCII Strings | ascii-strings |
+
 
 ## Website
 

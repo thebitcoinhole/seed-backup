@@ -82,6 +82,10 @@
       "value": "YES",
       "flag": "positive",
       "supported": true
+    },
+    "stress-tests": {
+      "value": "-",
+      "supported": false
     }
   },
   "backup-compatibility": {

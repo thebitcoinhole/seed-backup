@@ -79,6 +79,10 @@
       "texts": [
         "Fire threshold of 1399 to 1455°C / 2550 to 2651°F"
       ]
+    },
+    "stress-tests": {
+      "value": "-",
+      "supported": false
     }
   },
   "backup-compatibility": {

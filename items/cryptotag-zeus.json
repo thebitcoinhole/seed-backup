@@ -77,6 +77,16 @@
       "texts": [
         "All Cryptotag backup products have been tested in temperatures up to 1665°C / 3029 °F."
       ]
+    },
+    "stress-tests": {
+      "value": "YES",
+      "supported": true,
+      "links": [
+        {
+          "title": "Jameson Lopp's stress tests",
+          "url": "https://jlopp.github.io/metal-bitcoin-storage-reviews/reviews/cryptotag-zeus/"
+        }
+      ]
     }
   },
   "backup-compatibility": {

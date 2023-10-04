@@ -79,6 +79,16 @@
       "texts": [
         "Designed to be indestructible with a fireproof threshold of 1399 to 1455°C / 2550 to 2651°F"
       ]
+    },
+    "stress-tests": {
+      "value": "YES",
+      "supported": true,
+      "links": [
+        {
+          "title": "Jameson Lopp's stress tests",
+          "url": "https://jlopp.github.io/metal-bitcoin-storage-reviews/reviews/keystone-tablet-punch/"
+        }
+      ]
     }
   },
   "backup-compatibility": {

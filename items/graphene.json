@@ -79,6 +79,10 @@
       "texts": [
         "Temperatures up to 1375°C (2507°F) mean nothing to GRAPHENE."
       ]
+    },
+    "stress-tests": {
+      "value": "-",
+      "supported": false
     }
   },
   "backup-compatibility": {

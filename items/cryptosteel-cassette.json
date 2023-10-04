@@ -79,6 +79,16 @@
       "texts": [
         "Industrial-grade stainless steel plates can resist fire and temperature as high as 2649 °F / 1454 °C."
       ]
+    },
+    "stress-tests": {
+      "value": "YES",
+      "supported": true,
+      "links": [
+        {
+          "title": "Jameson Lopp's stress tests",
+          "url": "https://jlopp.github.io/metal-bitcoin-storage-reviews/reviews/cryptosteel-cassette/"
+        }
+      ]
     }
   },
   "backup-compatibility": {
