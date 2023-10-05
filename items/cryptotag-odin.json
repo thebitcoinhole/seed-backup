@@ -7,7 +7,7 @@
       "value": "$199"
     },
     "amazon": {
-      "supported": false
+      "supported": true
     }
   },
   "company": {
