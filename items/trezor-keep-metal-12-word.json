@@ -1,0 +1,118 @@
+{
+  "id": "trezor-keep-metal-12-word",
+  "name": "Trezor Keep Metal (12 word)",
+  "purchasable": true,
+  "pre-order": true,
+  "basic-information": {
+    "price": {
+      "value": "$99"
+    },
+    "amazon": {
+      "supported": false
+    }
+  },
+  "company": {
+    "brand": {
+      "value": "Trezor"
+    },
+    "headquarters": {
+      "value": "Czech Republic"
+    },
+    "website": {
+      "value": "trezor.io",
+      "url": "https://trezor.io/"
+    },
+    "blog": {
+      "value": "blog.trezor.io",
+      "url": "https://blog.trezor.io/"
+    },
+    "twitter": {
+      "value": "@TREZOR",
+      "url": "https://twitter.com/TREZOR"
+    },
+    "nostr": {
+      "value": "-"
+    },
+    "youtube": {
+      "value": "@TrezorWallet",
+      "url": "https://www.youtube.com/@TrezorWallet"
+    }
+  },
+  "payment-methods": {
+    "btc-on-chain": {
+      "value": "YES (via Confirmo.net)",
+      "flag": "positive",
+      "supported": true
+    },
+    "btc-lightning": {
+      "value": "YES (via Confirmo.net)",
+      "flag": "positive",
+      "supported": true
+    },
+    "alt-coins": {
+      "value": "YES",
+      "supported": true
+    },
+    "credit-debit-card": {
+      "value": "YES",
+      "supported": true
+    }
+  },
+  "size-materials": {
+    "weight": {
+      "value": "344g / 12.13oz"
+    },
+    "dimensions": {
+      "value": "110 x 30 mm"
+    },
+    "materials": {
+      "value": "Stainless steel"
+    },
+    "water-proof": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "fire-proof": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "stress-tests": {
+      "value": "NO",
+      "supported": false
+    }
+  },
+  "backup-compatibility": {
+    "output-descriptor": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
+    "bip39-12-words": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "bip39-24-words": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
+    "shamir-backup": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
+    "hexadecimal-strings": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
+    "ascii-strings": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    }
+  }
+}
