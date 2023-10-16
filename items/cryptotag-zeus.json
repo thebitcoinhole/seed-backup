@@ -29,10 +29,12 @@
       "url": "https://twitter.com/CRYPTO_TAG"
     },
     "nostr": {
-      "value": "-"
+      "value": "@cryptotag",
+      "url": "https://snort.social/p/npub1jg552aulj07skd6e7y2hu0vl5g8nl5jvfw8jhn6jpjk0vjd0waksvl6n8n"
     },
     "youtube": {
-      "value": "-"
+      "value": "@cryptotag5406",
+      "url": "https://www.youtube.com/@cryptotag5406"
     }
   },
   "payment-methods": {
