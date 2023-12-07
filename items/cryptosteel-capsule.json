@@ -1,6 +1,7 @@
 {
   "id": "cryptosteel-capsule",
   "name": "Capsule",
+  "full-name": "Cryptosteel Capsule",
   "purchasable": true,
   "basic-information": {
     "price": {

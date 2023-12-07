@@ -1,6 +1,7 @@
 {
   "id": "blockstream-metal",
   "name": "Metal",
+  "full-name": "Blockstream Metal",
   "purchasable": true,
   "basic-information": {
     "price": {

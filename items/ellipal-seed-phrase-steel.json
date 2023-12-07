@@ -1,6 +1,7 @@
 {
   "id": "ellipal-seed-phrase-steel",
   "name": "Seed Phrase Steel",
+  "full-name": "Ellipal Seed Phrase Steel",
   "purchasable": true,
   "basic-information": {
     "price": {
@@ -12,7 +13,7 @@
   },
   "company": {
     "brand": {
-      "value": "ELLIPAL"
+      "value": "Ellipal"
     },
     "headquarters": {
       "value": "Hong Kong"

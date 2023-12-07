@@ -1,6 +1,7 @@
 {
   "id": "keystone-tablet-plus",
   "name": "Tablet Plus",
+  "full-name": "Keystone Tablet Plus",
   "purchasable": true,
   "basic-information": {
     "price": {

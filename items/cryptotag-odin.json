@@ -1,6 +1,7 @@
 {
   "id": "cryptotag-odin",
   "name": "Odin",
+  "full-name": "Cryptotag Odin",
   "purchasable": true,
   "basic-information": {
     "price": {

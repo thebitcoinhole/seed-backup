@@ -1,6 +1,7 @@
 {
   "id": "cryptotag-thor",
   "name": "Thor",
+  "full-name": "Cryptotag Thor",
   "purchasable": true,
   "basic-information": {
     "price": {

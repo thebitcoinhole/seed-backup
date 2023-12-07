@@ -1,6 +1,7 @@
 {
   "id": "onekey-keytag",
   "name": "KeyTag",
+  "full-name": "OneKey KeyTag",
   "purchasable": true,
   "basic-information": {
     "price": {

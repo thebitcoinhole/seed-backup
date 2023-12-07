@@ -1,6 +1,7 @@
 {
   "id": "cryptotag-zeus",
   "name": "Zeus",
+  "full-name": "Cryptotag Zeus",
   "purchasable": true,
   "basic-information": {
     "price": {

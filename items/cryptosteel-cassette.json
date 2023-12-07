@@ -1,6 +1,7 @@
 {
   "id": "cryptosteel-cassette",
   "name": "Cassette",
+  "full-name": "Cryptosteel Cassette",
   "purchasable": true,
   "basic-information": {
     "price": {
