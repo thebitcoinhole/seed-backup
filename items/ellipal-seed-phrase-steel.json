@@ -86,6 +86,13 @@
       "supported": false
     }
   },
+  "security": {
+    "pin-protection": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    }
+  },
   "backup-compatibility": {
     "output-descriptor": {
       "value": "NO",

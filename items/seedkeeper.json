@@ -1,53 +1,52 @@
 {
-  "id": "keystone-tablet",
-  "name": "Tablet",
-  "full-name": "Keystone Tablet",
+  "id": "seedkeeper",
+  "name": "Seedkeeper",
   "purchasable": true,
   "basic-information": {
     "price": {
-      "value": "$39"
+      "value": "$25"
     },
     "amazon": {
-      "supported": true
+      "supported": false
     }
   },
   "company": {
     "brand": {
-      "value": "Keystone"
+      "value": "Satochip"
     },
     "headquarters": {
-      "value": "Hong Kong"
+      "value": "Belgium"
     },
     "website": {
-      "value": "keyst.one",
-      "url": "https://keyst.one/"
+      "value": "satochip.io",
+      "url": "https://satochip.io/"
     },
     "blog": {
-      "value": "blog.keyst.one",
-      "url": "https://blog.keyst.one/"
+      "value": "satochip.medium.com",
+      "url": "https://satochip.medium.com/"
     },
     "twitter": {
-      "value": "@KeystoneWallet",
-      "url": "https://twitter.com/KeystoneWallet"
+      "value": "@Satochip",
+      "url": "https://twitter.com/Satochip"
     },
     "nostr": {
       "value": "-"
     },
     "youtube": {
-      "value": "@KeystoneWallet",
-      "url": "https://www.youtube.com/@KeystoneWallet"
+      "value": "@satochip953",
+      "url": "https://www.youtube.com/@satochip953"
     }
   },
   "payment-methods": {
     "btc-on-chain": {
-      "value": "YES (via Open Node or Coinbase Commerce)",
+      "value": "YES (via Coinbase Commerce)",
       "flag": "positive",
       "supported": true
     },
     "btc-lightning": {
-      "value": "YES (via Open Node)",
-      "flag": "positive",
-      "supported": true
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
     },
     "alt-coins": {
       "value": "YES (via Coinbase Commerce)",
@@ -60,13 +59,13 @@
   },
   "size-materials": {
     "weight": {
-      "value": "430g / 15.1oz"
+      "value": "?"
     },
     "dimensions": {
-      "value": "105 x 60 x 6.5 mm"
+      "value": "85.60 x 53.98 mm"
     },
     "materials": {
-      "value": "Stainless steel"
+      "value": "Plastic"
     },
     "water-proof": {
       "value": "YES",
@@ -74,12 +73,9 @@
       "supported": true
     },
     "fire-proof": {
-      "value": "YES",
-      "flag": "positive",
-      "supported": true,
-      "texts": [
-        "Fire threshold of 1399 to 1455°C / 2550 to 2651°F"
-      ]
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
     },
     "stress-tests": {
       "value": "-",
@@ -88,9 +84,9 @@
   },
   "security": {
     "pin-protection": {
-      "value": "NO",
-      "flag": "negative",
-      "supported": false
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
     }
   },
   "backup-compatibility": {
@@ -115,7 +111,7 @@
       "supported": true
     },
     "hexadecimal-strings": {
-      "value": "NO",
+      "value": "YES",
       "flag": "positive",
       "supported": true
     },
