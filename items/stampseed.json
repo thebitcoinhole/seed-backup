@@ -1,12 +1,10 @@
 {
-  "id": "trezor-keep-metal-shamir",
-  "name": "Keep Metal (Shamir Backup)",
-  "full-name": "Trezor Keep Metal (Shamir Backup)",
+  "id": "stampseed",
+  "name": "Stamp Seed",
   "purchasable": true,
-  "pre-order": true,
   "basic-information": {
     "price": {
-      "value": "$249"
+      "value": "$196"
     },
     "amazon": {
       "supported": false
@@ -14,45 +12,42 @@
   },
   "company": {
     "brand": {
-      "value": "Trezor"
+      "value": "ImpressArt"
     },
     "headquarters": {
-      "value": "Czech Republic"
+      "value": "-"
     },
     "website": {
-      "value": "trezor.io",
-      "url": "https://trezor.io/"
+      "value": "stampseed.com",
+      "url": "https://www.stampseed.com/"
     },
     "blog": {
-      "value": "blog.trezor.io",
-      "url": "https://blog.trezor.io/"
+      "value": "-"
     },
     "twitter": {
-      "value": "@TREZOR",
-      "url": "https://twitter.com/TREZOR"
+      "value": "-"
     },
     "nostr": {
       "value": "-"
     },
     "youtube": {
-      "value": "@TrezorWallet",
-      "url": "https://www.youtube.com/@TrezorWallet"
+      "value": "-"
     }
   },
   "payment-methods": {
     "btc-on-chain": {
-      "value": "YES (via Confirmo.net)",
-      "flag": "positive",
-      "supported": true
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
     },
     "btc-lightning": {
-      "value": "YES (via Confirmo.net)",
-      "flag": "positive",
-      "supported": true
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
     },
     "alt-coins": {
-      "value": "YES",
-      "supported": true
+      "value": "NO",
+      "supported": false
     },
     "credit-debit-card": {
       "value": "YES",
@@ -61,13 +56,13 @@
   },
   "size-materials": {
     "weight": {
-      "value": "344g / 12.13oz"
+      "value": "?"
     },
     "dimensions": {
-      "value": "110 x 30 mm"
+      "value": "76.2 x 76.2 mm"
     },
     "materials": {
-      "value": "Stainless steel"
+      "value": "Titanium"
     },
     "water-proof": {
       "value": "YES",
@@ -80,8 +75,14 @@
       "supported": true
     },
     "stress-tests": {
-      "value": "-",
-      "supported": false
+      "value": "YES",
+      "supported": true,
+      "links": [
+        {
+          "title": "Stress Testing",
+          "url": "https://www.stampseed.com/stress-testing"
+        }
+      ]
     }
   },
   "security": {
@@ -98,14 +99,14 @@
       "supported": false
     },
     "bip39-12-words": {
-      "value": "NO",
-      "flag": "negative",
-      "supported": false
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
     },
     "bip39-24-words": {
-      "value": "NO",
-      "flag": "negative",
-      "supported": false
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
     },
     "shamir-backup": {
       "value": "YES",
@@ -118,9 +119,9 @@
       "supported": false
     },
     "ascii-strings": {
-      "value": "NO",
-      "flag": "negative",
-      "supported": false
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
     }
   }
 }
