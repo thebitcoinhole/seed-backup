@@ -1,0 +1,123 @@
+{
+  "id": "bitbar",
+  "name": "BitBar",
+  "purchasable": true,
+  "basic-information": {
+    "price": {
+      "value": "$209"
+    },
+    "amazon": {
+      "supported": false
+    }
+  },
+  "company": {
+    "brand": {
+      "value": "BitBar"
+    },
+    "headquarters": {
+      "value": "Switzerland"
+    },
+    "website": {
+      "value": "bitbarswiss.com",
+      "url": "https://www.bitbarswiss.com/"
+    },
+    "blog": {
+      "value": "-"
+    },
+    "twitter": {
+      "value": "@BitBarSwiss",
+      "url": "https://twitter.com/BitBarSwiss"
+    },
+    "nostr": {
+      "value": "-"
+    },
+    "youtube": {
+      "value": "@bitbarswiss",
+      "url": "https://www.youtube.com/@bitbarswiss"
+    }
+  },
+  "payment-methods": {
+    "btc-on-chain": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "btc-lightning": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "alt-coins": {
+      "value": "NO",
+      "supported": false
+    },
+    "credit-debit-card": {
+      "value": "YES",
+      "supported": true
+    }
+  },
+  "size-materials": {
+    "weight": {
+      "value": "515g / 18.16oz"
+    },
+    "dimensions": {
+      "value": "100 x 33 x 33 mmm"
+    },
+    "materials": {
+      "value": "Stainless steel"
+    },
+    "water-proof": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "fire-proof": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "stress-tests": {
+      "value": "-",
+      "supported": false
+    }
+  },
+  "security": {
+    "pin-protection": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    }
+  },
+  "backup-compatibility": {
+    "output-descriptor": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
+    "bip39-12-words": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "bip39-24-words": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "shamir-backup": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "hexadecimal-strings": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
+    "ascii-strings": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    }
+  }
+}
