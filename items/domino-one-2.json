@@ -1,0 +1,123 @@
+{
+  "id": "domino-one-2",
+  "name": "Domino One 2",
+  "purchasable": true,
+  "basic-information": {
+    "price": {
+      "value": "£80.50"
+    },
+    "amazon": {
+      "supported": false
+    }
+  },
+  "company": {
+    "brand": {
+      "value": "Bitplates"
+    },
+    "headquarters": {
+      "value": "England"
+    },
+    "website": {
+      "value": "bitplates.com",
+      "url": "https://www.bitplates.com/"
+    },
+    "blog": {
+      "value": "-"
+    },
+    "twitter": {
+      "value": "@BitPLATES",
+      "url": "https://twitter.com/BitPLATES"
+    },
+    "nostr": {
+      "value": "-"
+    },
+    "youtube": {
+      "value": "@BitPLATES",
+      "url": "https://www.youtube.com/@BitPLATES"
+    }
+  },
+  "payment-methods": {
+    "btc-on-chain": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "btc-lightning": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "alt-coins": {
+      "value": "NO",
+      "supported": false
+    },
+    "credit-debit-card": {
+      "value": "YES",
+      "supported": true
+    }
+  },
+  "size-materials": {
+    "weight": {
+      "value": "175g / 6.17oz"
+    },
+    "dimensions": {
+      "value": "100 x 75 x 3 mm"
+    },
+    "materials": {
+      "value": "Stainless Steel"
+    },
+    "water-proof": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "fire-proof": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "stress-tests": {
+      "value": "-",
+      "supported": false
+    }
+  },
+  "security": {
+    "pin-protection": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    }
+  },
+  "backup-compatibility": {
+    "output-descriptor": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
+    "bip39-12-words": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "bip39-24-words": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
+    "shamir-backup": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
+    "hexadecimal-strings": {
+      "value": "NO",
+      "flag": "positive",
+      "supported": true
+    },
+    "ascii-strings": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    }
+  }
+}
