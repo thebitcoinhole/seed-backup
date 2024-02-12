@@ -76,6 +76,7 @@
     "fire-proof": {
       "value": "YES",
       "supported": true,
+      "flag": "positive",
       "texts": [
         "The SafePal Cypher has a melting point of 2548°F/1398°C, and can comfortably withstand house fires where the average temperatures are 1500°F/815°C"
       ]
