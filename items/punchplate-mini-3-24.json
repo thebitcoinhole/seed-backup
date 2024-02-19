@@ -1,0 +1,122 @@
+{
+  "id": "punchplate-mini-3",
+  "name": "Punchplate Mini III (24 Words)",
+  "purchasable": true,
+  "basic-information": {
+    "price": {
+      "value": "$21"
+    },
+    "amazon": {
+      "supported": false
+    }
+  },
+  "company": {
+    "brand": {
+      "value": "Codl Storage Solutions"
+    },
+    "headquarters": {
+      "value": "USA"
+    },
+    "website": {
+      "value": "codl.co",
+      "url": "https://codl.co/"
+    },
+    "blog": {
+      "value": "-"
+    },
+    "twitter": {
+      "value": "@CodlStorage",
+      "url": "https://twitter.com/CodlStorage"
+    },
+    "nostr": {
+      "value": "-"
+    },
+    "youtube": {
+      "value": "-"
+    }
+  },
+  "payment-methods": {
+    "btc-on-chain": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
+    "btc-lightning": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
+    "alt-coins": {
+      "value": "NO",
+      "supported": false
+    },
+    "credit-debit-card": {
+      "value": "YES",
+      "supported": true
+    }
+  },
+  "size-materials": {
+    "weight": {
+      "value": "?"
+    },
+    "dimensions": {
+      "value": "?"
+    },
+    "materials": {
+      "value": "Stainless Steel"
+    },
+    "water-proof": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "fire-proof": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "stress-tests": {
+      "value": "NO",
+      "supported": false
+    }
+  },
+  "security": {
+    "pin-protection": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    }
+  },
+  "backup-compatibility": {
+    "output-descriptor": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
+    "bip39-12-words": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "bip39-24-words": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "shamir-backup": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "hexadecimal-strings": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
+    "ascii-strings": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    }
+  }
+}
