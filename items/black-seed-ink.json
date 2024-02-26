@@ -1,10 +1,10 @@
 {
-  "id": "seedor-safe",
-  "name": "Seedor Safe",
+  "id": "black-seed-ink",
+  "name": "Black Seed Ink",
   "purchasable": true,
   "basic-information": {
     "price": {
-      "value": "€69"
+      "value": "$27"
     },
     "amazon": {
       "supported": false
@@ -12,45 +12,45 @@
   },
   "company": {
     "brand": {
-      "value": "Seedor"
+      "value": "Black Seed Ink"
     },
     "headquarters": {
-      "value": "Germany"
+      "value": "USA"
     },
     "website": {
-      "value": "seedor.io",
-      "url": "https://www.seedor.io/"
+      "value": "blackseedink.com",
+      "url": "https://blackseedink.com/"
     },
     "blog": {
-      "value": "seedor.io/blogs/info",
-      "url": "https://www.seedor.io/blogs/info"
+      "value": "blackseedink.com/blogs/news",
+      "url": "https://blackseedink.com/blogs/news/"
     },
     "twitter": {
-      "value": "@seedor_io",
-      "url": "https://twitter.com/seedor_io"
+      "value": "@black_seed_ink",
+      "url": "https://twitter.com/black_seed_ink"
     },
     "nostr": {
       "value": "-"
     },
     "youtube": {
-      "value": "@seedor_io",
-      "url": "https://www.youtube.com/@seedor_io"
+      "value": "@blackseedink",
+      "url": "https://www.youtube.com/@blackseedink"
     }
   },
   "payment-methods": {
     "btc-on-chain": {
-      "value": "YES (via BTCPay)",
+      "value": "YES (via Coinbase Commerce)",
       "flag": "positive",
       "supported": true
     },
     "btc-lightning": {
-      "value": "YES (via BTCPay)",
-      "flag": "positive",
-      "supported": true
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
     },
     "alt-coins": {
-      "value": "NO",
-      "supported": false
+      "value": "YES (via Coinbase Commerce)",
+      "supported": true
     },
     "credit-debit-card": {
       "value": "YES",
@@ -62,10 +62,10 @@
       "value": "?"
     },
     "dimensions": {
-      "value": "67 x 25 mm"
+      "value": "89 x 54 x 0.8 mm"
     },
     "materials": {
-      "value": "Stainless Steel"
+      "value": "Stainless steel"
     },
     "water-proof": {
       "value": "YES",
@@ -82,12 +82,12 @@
       "supported": true,
       "links": [
         {
-          "title": "Bitcoin Steel Wallet Stresstest - what can the Seedor Safe withstand?",
-          "url": "https://www.seedor.io/en-int/blogs/info/bitcoin-steel-wallet-stresstest-was-halt-der-seedor-safe-aus"
+          "title": "Stress Test Outcome",
+          "url": "https://blackseedink.com/pages/cold-wallet-stress-test-outcome"
         },
         {
-          "title": "Bitcoin Seed Storage Stress Test & Review by Jameson Lopp",
-          "url": "https://www.seedor.io/blogs/info/bitcoin-seed-storage-stress-test-review-by-jameson-lopp"
+          "title": "Black Seed Ink Review",
+          "url": "https://jlopp.github.io/metal-bitcoin-storage-reviews/reviews/black-seed-ink/"
         }
       ]
     }
