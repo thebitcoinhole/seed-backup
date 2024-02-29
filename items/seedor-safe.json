@@ -30,7 +30,8 @@
       "url": "https://twitter.com/seedor_io"
     },
     "nostr": {
-      "value": "-"
+      "value": "seedor@nostrplebs.com",
+      "url": "https://snort.social/p/npub1r8343wqpra05l3jnc4jud4xz7vlnyeslf7gfsty7ahpf92rhfmpsmqwym8"
     },
     "youtube": {
       "value": "@seedor_io",
@@ -59,13 +60,16 @@
   },
   "size-materials": {
     "weight": {
-      "value": "?"
+      "value": "230g / 8.11oz"
     },
     "dimensions": {
       "value": "67 x 25 mm"
     },
     "materials": {
-      "value": "Stainless Steel"
+      "value": "Stainless Steel",
+      "texts": [
+        "316L for extra corrosion resistance"
+      ]
     },
     "water-proof": {
       "value": "YES",
@@ -128,7 +132,10 @@
     "ascii-strings": {
       "value": "YES",
       "flag": "positive",
-      "supported": true
+      "supported": true,
+      "texts": [
+        "One capsule can fit 44 discs, each with 10 characters + 2 characters for the position."
+      ]
     }
   }
 }
