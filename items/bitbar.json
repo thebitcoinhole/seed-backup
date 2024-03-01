@@ -64,7 +64,10 @@
       "value": "100 x 33 x 33 mmm"
     },
     "materials": {
-      "value": "Stainless steel"
+      "value": "Stainless Steel",
+      "texts": [
+        "Stainless Steel 304"
+      ]
     },
     "water-proof": {
       "value": "YES",
