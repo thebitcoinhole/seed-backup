@@ -69,6 +69,11 @@
     "materials": {
       "value": "Stainless Steel"
     },
+    "include-all-tools": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
     "water-proof": {
       "value": "YES",
       "flag": "positive",
@@ -81,6 +86,20 @@
       "texts": [
         "Industrial-grade stainless steel plates can resist fire and temperature as high as 2649 °F / 1454 °C."
       ]
+    },
+    "crush-proof": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
+    "corrosion-proof": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
+    "shock-proof": {
+      "value": "?",
+      "supported": false
     },
     "stress-tests": {
       "value": "YES",
@@ -98,6 +117,19 @@
       "value": "NO",
       "flag": "negative",
       "supported": false
+    },
+    "encrypted-backup": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
+    "tamper-evident-seal": {
+      "value": "Partially",
+      "flag": "neutral",
+      "supported": true,
+      "texts": [
+        "2 Lock Hole. The device has 2 holes that you can use to secure with padlocks (not included)"
+      ]
     }
   },
   "backup-compatibility": {

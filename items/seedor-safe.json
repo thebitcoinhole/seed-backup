@@ -4,7 +4,7 @@
   "purchasable": true,
   "basic-information": {
     "price": {
-      "value": "€69"
+      "value": "$65"
     },
     "amazon": {
       "supported": false
@@ -71,6 +71,14 @@
         "316L for extra corrosion resistance"
       ]
     },
+    "include-all-tools": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false,
+      "texts": [
+        "Starter Set not included"
+      ]
+    },
     "water-proof": {
       "value": "YES",
       "flag": "positive",
@@ -80,6 +88,20 @@
       "value": "YES",
       "flag": "positive",
       "supported": true
+    },
+    "crush-proof": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "corrosion-proof": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "shock-proof": {
+      "value": "?",
+      "supported": false
     },
     "stress-tests": {
       "value": "YES",
@@ -101,6 +123,16 @@
       "value": "NO",
       "flag": "negative",
       "supported": false
+    },
+    "encrypted-backup": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
+    "tamper-evident-seal": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
     }
   },
   "backup-compatibility": {

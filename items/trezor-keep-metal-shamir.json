@@ -3,7 +3,6 @@
   "name": "Keep Metal (Shamir Backup)",
   "full-name": "Trezor Keep Metal (Shamir Backup)",
   "purchasable": true,
-  "pre-order": true,
   "basic-information": {
     "price": {
       "value": "$249"
@@ -67,7 +66,15 @@
       "value": "110 x 30 mm"
     },
     "materials": {
-      "value": "Stainless Steel"
+      "value": "Stainless Steel",
+      "texts": [
+        "AISI 304 aerospace grade stainless steel with a durable black surface treatment"
+      ]
+    },
+    "include-all-tools": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
     },
     "water-proof": {
       "value": "YES",
@@ -75,6 +82,20 @@
       "supported": true
     },
     "fire-proof": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "crush-proof": {
+      "value": "?",
+      "supported": false
+    },
+    "corrosion-proof": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "shock-proof": {
       "value": "YES",
       "flag": "positive",
       "supported": true
@@ -89,6 +110,16 @@
       "value": "NO",
       "flag": "negative",
       "supported": false
+    },
+    "encrypted-backup": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
+    "tamper-evident-seal": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
     }
   },
   "backup-compatibility": {
@@ -98,9 +129,9 @@
       "supported": false
     },
     "bip39-12-words": {
-      "value": "NO",
-      "flag": "negative",
-      "supported": false
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
     },
     "bip39-24-words": {
       "value": "NO",

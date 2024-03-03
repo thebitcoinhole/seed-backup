@@ -68,18 +68,43 @@
     "materials": {
       "value": "Stainless Steel"
     },
+    "include-all-tools": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
     "water-proof": {
       "value": "YES",
       "flag": "positive",
       "supported": true
     },
     "fire-proof": {
-      "value": "YES",
-      "flag": "positive",
+      "value": "Partially",
+      "flag": "neutral",
       "supported": true,
       "texts": [
         "Fire threshold of 1399 to 1455°C / 2550 to 2651°F"
+      ],
+      "links": [
+        {
+          "title": "Jameson Lopp's stress tests",
+          "url": "https://jlopp.github.io/metal-bitcoin-storage-reviews/reviews/keystone-tablet-plus/"
+        }
       ]
+    },
+    "crush-proof": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "corrosion-proof": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "shock-proof": {
+      "value": "?",
+      "supported": false
     },
     "stress-tests": {
       "value": "YES",
@@ -97,6 +122,19 @@
       "value": "NO",
       "flag": "negative",
       "supported": false
+    },
+    "encrypted-backup": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
+    "tamper-evident-seal": {
+      "value": "Partially",
+      "flag": "neutral",
+      "supported": true,
+      "texts": [
+        "Lock Hole. Close the tablet (can be fastened with a padlock). Locks are not included in the box"
+      ]
     }
   },
   "backup-compatibility": {

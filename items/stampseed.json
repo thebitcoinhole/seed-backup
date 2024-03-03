@@ -4,7 +4,7 @@
   "purchasable": true,
   "basic-information": {
     "price": {
-      "value": "$196"
+      "value": "$114"
     },
     "amazon": {
       "supported": false
@@ -65,6 +65,11 @@
     "materials": {
       "value": "Titanium"
     },
+    "include-all-tools": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
     "water-proof": {
       "value": "YES",
       "flag": "positive",
@@ -74,6 +79,20 @@
       "value": "YES",
       "flag": "positive",
       "supported": true
+    },
+    "crush-proof": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "corrosion-proof": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "shock-proof": {
+      "value": "?",
+      "supported": false
     },
     "stress-tests": {
       "value": "YES",
@@ -88,6 +107,16 @@
   },
   "security": {
     "pin-protection": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
+    "encrypted-backup": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
+    "tamper-evident-seal": {
       "value": "NO",
       "flag": "negative",
       "supported": false

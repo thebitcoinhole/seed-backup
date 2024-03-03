@@ -67,12 +67,32 @@
     "materials": {
       "value": "Plastic"
     },
+    "include-all-tools": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
     "water-proof": {
       "value": "YES",
       "flag": "positive",
       "supported": true
     },
     "fire-proof": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
+    "crush-proof": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
+    "corrosion-proof": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
+    "shock-proof": {
       "value": "NO",
       "flag": "negative",
       "supported": false
@@ -87,6 +107,16 @@
       "value": "YES",
       "flag": "positive",
       "supported": true
+    },
+    "encrypted-backup": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "tamper-evident-seal": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
     }
   },
   "backup-compatibility": {

@@ -64,7 +64,18 @@
       "value": "100 x 75 x 3 mm"
     },
     "materials": {
-      "value": "Stainless Steel"
+      "value": "Stainless Steel",
+      "texts": [
+        "Marine-grade 316L stainless steel"
+      ]
+    },
+    "include-all-tools": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false,
+      "texts": [
+        "Centre Punch tool sold separately"
+      ]
     },
     "water-proof": {
       "value": "YES",
@@ -76,6 +87,20 @@
       "flag": "positive",
       "supported": true
     },
+    "crush-proof": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "corrosion-proof": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "shock-proof": {
+      "value": "?",
+      "supported": false
+    },
     "stress-tests": {
       "value": "-",
       "supported": false
@@ -83,6 +108,16 @@
   },
   "security": {
     "pin-protection": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
+    "encrypted-backup": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
+    "tamper-evident-seal": {
       "value": "NO",
       "flag": "negative",
       "supported": false

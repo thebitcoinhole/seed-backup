@@ -65,6 +65,14 @@
     "materials": {
       "value": "Stainless Steel"
     },
+    "include-all-tools": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true,
+      "texts": [
+        "Punch-tool included"
+      ]
+    },
     "water-proof": {
       "value": "YES",
       "flag": "positive",
@@ -74,6 +82,19 @@
       "value": "YES",
       "flag": "positive",
       "supported": true
+    },
+    "crush-proof": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "corrosion-proof": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "shock-proof": {
+      "value": "?"
     },
     "stress-tests": {
       "value": "YES",
@@ -88,6 +109,16 @@
   },
   "security": {
     "pin-protection": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
+    "encrypted-backup": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
+    "tamper-evident-seal": {
       "value": "NO",
       "flag": "negative",
       "supported": false

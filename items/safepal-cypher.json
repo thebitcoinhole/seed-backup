@@ -68,6 +68,11 @@
     "materials": {
       "value": "Stainless Steel"
     },
+    "include-all-tools": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
     "water-proof": {
       "value": "YES",
       "flag": "positive",
@@ -81,6 +86,19 @@
         "The SafePal Cypher has a melting point of 2548°F/1398°C, and can comfortably withstand house fires where the average temperatures are 1500°F/815°C"
       ]
     },
+    "crush-proof": {
+      "value": "?",
+      "supported": false
+    },
+    "corrosion-proof": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "shock-proof": {
+      "value": "?",
+      "supported": false
+    },
     "stress-tests": {
       "value": "-",
       "supported": false
@@ -91,6 +109,16 @@
       "value": "NO",
       "flag": "negative",
       "supported": false
+    },
+    "encrypted-backup": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
+    "tamper-evident-seal": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
     }
   },
   "backup-compatibility": {

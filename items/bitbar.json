@@ -69,6 +69,11 @@
         "Stainless Steel 304"
       ]
     },
+    "include-all-tools": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
     "water-proof": {
       "value": "YES",
       "flag": "positive",
@@ -79,9 +84,29 @@
       "flag": "positive",
       "supported": true
     },
-    "stress-tests": {
-      "value": "-",
+    "crush-proof": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "corrosion-proof": {
+      "value": "?",
       "supported": false
+    },
+    "shock-proof": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "stress-tests": {
+      "value": "YES",
+      "supported": true,
+      "links": [
+        {
+          "title": "Stress Tests",
+          "url": "https://www.youtube.com/shorts/OQalNU8UN30"
+        }
+      ]
     }
   },
   "security": {
@@ -89,6 +114,16 @@
       "value": "NO",
       "flag": "negative",
       "supported": false
+    },
+    "encrypted-backup": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
+    "tamper-evident-seal": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
     }
   },
   "backup-compatibility": {

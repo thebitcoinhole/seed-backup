@@ -65,6 +65,14 @@
     "materials": {
       "value": "Stainless Steel"
     },
+    "include-all-tools": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true,
+      "texts": [
+        "Punch-tool included"
+      ]
+    },
     "water-proof": {
       "value": "YES",
       "flag": "positive",
@@ -75,13 +83,42 @@
       "flag": "positive",
       "supported": true
     },
+    "crush-proof": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "corrosion-proof": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "shock-proof": {
+      "value": "?"
+    },
     "stress-tests": {
-      "value": "NO",
-      "supported": false
+      "value": "YES",
+      "supported": true,
+      "links": [
+        {
+          "title": "Jameson Lopp's stress tests",
+          "url": "https://jlopp.github.io/metal-bitcoin-storage-reviews/reviews/codl-punchplate/"
+        }
+      ]
     }
   },
   "security": {
     "pin-protection": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
+    "encrypted-backup": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
+    "tamper-evident-seal": {
       "value": "NO",
       "flag": "negative",
       "supported": false

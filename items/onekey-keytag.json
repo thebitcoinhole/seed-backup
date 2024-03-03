@@ -67,6 +67,14 @@
     "materials": {
       "value": "Titanium Alloy"
     },
+    "include-all-tools": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true,
+      "texts": [
+        "Automatic center punch included"
+      ]
+    },
     "water-proof": {
       "value": "YES",
       "flag": "positive",
@@ -77,6 +85,19 @@
       "flag": "positive",
       "supported": true
     },
+    "crush-proof": {
+      "value": "?",
+      "supported": false
+    },
+    "corrosion-proof": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "shock-proof": {
+      "value": "?",
+      "supported": false
+    },
     "stress-tests": {
       "value": "-",
       "supported": false
@@ -84,6 +105,16 @@
   },
   "security": {
     "pin-protection": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
+    "encrypted-backup": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
+    "tamper-evident-seal": {
       "value": "NO",
       "flag": "negative",
       "supported": false

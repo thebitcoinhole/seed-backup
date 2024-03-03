@@ -67,6 +67,11 @@
     "materials": {
       "value": "Stainless Steel & Aluminum"
     },
+    "include-all-tools": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
     "water-proof": {
       "value": "YES",
       "flag": "positive",
@@ -80,6 +85,18 @@
         "Industrial-grade stainless steel plates can resist fire and temperature as high as 2649 °F / 1454 °C."
       ]
     },
+    "crush-proof": {
+      "value": "?",
+      "supported": false
+    },
+    "corrosion-proof": {
+      "value": "?",
+      "supported": false
+    },
+    "shock-proof": {
+      "value": "?",
+      "supported": false
+    },
     "stress-tests": {
       "value": "-",
       "supported": false
@@ -87,6 +104,16 @@
   },
   "security": {
     "pin-protection": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
+    "encrypted-backup": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
+    "tamper-evident-seal": {
       "value": "NO",
       "flag": "negative",
       "supported": false

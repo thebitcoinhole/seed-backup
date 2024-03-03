@@ -65,7 +65,18 @@
       "value": "89 x 54 x 0.8 mm"
     },
     "materials": {
-      "value": "Stainless Steel"
+      "value": "Stainless Steel",
+      "texts": [
+        ".8mm thick 304 grade stainless steel"
+      ]
+    },
+    "include-all-tools": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true,
+      "texts": [
+        "Scribe tool included"
+      ]
     },
     "water-proof": {
       "value": "YES",
@@ -76,6 +87,20 @@
       "value": "YES",
       "flag": "positive",
       "supported": true
+    },
+    "crush-proof": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "corrosion-proof": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "shock-proof": {
+      "value": "?",
+      "supported": false
     },
     "stress-tests": {
       "value": "YES",
@@ -94,6 +119,16 @@
   },
   "security": {
     "pin-protection": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
+    "encrypted-backup": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
+    "tamper-evident-seal": {
       "value": "NO",
       "flag": "negative",
       "supported": false
