@@ -131,6 +131,13 @@
       "supported": false
     }
   },
+  "capacity": {
+    "multiple-private-keys": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    }
+  },
   "backup-compatibility": {
     "output-descriptor": {
       "value": "NO",

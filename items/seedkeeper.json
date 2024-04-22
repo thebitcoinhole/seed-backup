@@ -106,7 +106,10 @@
     "pin-protection": {
       "value": "YES",
       "flag": "positive",
-      "supported": true
+      "supported": true,
+      "texts": [
+        "Access to its memory is enforced by a personal PIN code (from 4 to 16 characters)."
+      ]
     },
     "encrypted-backup": {
       "value": "YES",
@@ -117,6 +120,13 @@
       "value": "NO",
       "flag": "negative",
       "supported": false
+    }
+  },
+  "capacity": {
+    "multiple-private-keys": {
+      "value": "YES (12)",
+      "flag": "positive",
+      "supported": true
     }
   },
   "backup-compatibility": {
