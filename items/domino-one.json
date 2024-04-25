@@ -70,12 +70,9 @@
       ]
     },
     "include-all-tools": {
-      "value": "NO",
+      "value": "Center Punch tool required",
       "flag": "negative",
-      "supported": false,
-      "texts": [
-        "Centre Punch tool sold separately"
-      ]
+      "supported": false
     },
     "water-proof": {
       "value": "YES",

@@ -72,12 +72,9 @@
       ]
     },
     "include-all-tools": {
-      "value": "NO",
+      "value": "Starter Set required",
       "flag": "negative",
-      "supported": false,
-      "texts": [
-        "Starter Set not included"
-      ]
+      "supported": false
     },
     "water-proof": {
       "value": "YES",

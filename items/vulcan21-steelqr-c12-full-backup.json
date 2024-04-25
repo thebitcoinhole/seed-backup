@@ -69,12 +69,9 @@
       ]
     },
     "include-all-tools": {
-      "value": "NO",
+      "value": "Center Punch tool required",
       "flag": "negative",
-      "supported": false,
-      "texts": [
-        "Center punch required"
-      ]
+      "supported": false
     },
     "water-proof": {
       "value": "YES",
