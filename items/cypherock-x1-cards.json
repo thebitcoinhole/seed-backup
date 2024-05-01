@@ -98,7 +98,7 @@
       "supported": false
     },
     "stress-tests": {
-      "value": "NO",
+      "value": "-",
       "supported": false
     }
   },

@@ -70,7 +70,7 @@
     },
     "include-all-tools": {
       "value": "Center Punch tool required",
-      "flag": "negative",
+      "flag": "neutral",
       "supported": false
     },
     "water-proof": {

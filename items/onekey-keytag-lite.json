@@ -120,9 +120,9 @@
       ]
     },
     "tamper-evident-seal": {
-      "value": "NO",
-      "flag": "negative",
-      "supported": false
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
     }
   },
   "capacity": {
