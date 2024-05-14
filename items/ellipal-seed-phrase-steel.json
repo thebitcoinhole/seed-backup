@@ -161,7 +161,7 @@
       "supported": false
     },
     "ascii-strings": {
-      "value": "YES",
+      "value": "YES (up to 96 chars)",
       "flag": "positive",
       "supported": true
     }

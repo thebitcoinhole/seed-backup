@@ -1,11 +1,10 @@
 {
-  "id": "keystone-tablet",
-  "name": "Tablet",
-  "full-name": "Keystone Tablet",
+  "id": "secux-xseed-pro",
+  "name": "X-SEED Pro",
   "purchasable": true,
   "basic-information": {
     "price": {
-      "value": "$39"
+      "value": "$89"
     },
     "amazon": {
       "supported": true
@@ -13,63 +12,60 @@
   },
   "company": {
     "brand": {
-      "value": "Keystone"
+      "value": "SecuX"
     },
     "headquarters": {
-      "value": "Hong Kong"
+      "value": "Taiwan"
     },
     "website": {
-      "value": "keyst.one",
-      "url": "https://keyst.one/"
+      "value": "secuxtech.com",
+      "url": "https://secuxtech.com/"
     },
     "blog": {
-      "value": "blog.keyst.one",
-      "url": "https://blog.keyst.one/"
+      "value": "secuxtech.com/news-blog/#blog",
+      "url": "https://secuxtech.com/news-blog/#blog"
     },
     "twitter": {
-      "value": "@KeystoneWallet",
-      "url": "https://twitter.com/KeystoneWallet"
+      "value": "@SecuXwallet",
+      "url": "https://twitter.com/SecuXwallet"
     },
     "nostr": {
       "value": "-"
     },
     "youtube": {
-      "value": "@KeystoneWallet",
-      "url": "https://www.youtube.com/@KeystoneWallet"
+      "value": "@secux",
+      "url": "https://www.youtube.com/@secux"
     }
   },
   "payment-methods": {
     "btc-on-chain": {
-      "value": "YES (via Open Node or Coinbase Commerce)",
+      "value": "YES (via BTCPay)",
       "flag": "positive",
       "supported": true
     },
     "btc-lightning": {
-      "value": "YES (via Open Node)",
-      "flag": "positive",
-      "supported": true
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
     },
     "alt-coins": {
-      "value": "YES (via Coinbase Commerce)",
-      "supported": true
+      "value": "NO",
+      "supported": false
     },
     "credit-debit-card": {
-      "value": "YES",
-      "supported": true
+      "value": "NO",
+      "supported": false
     }
   },
   "size-materials": {
     "weight": {
-      "value": "430g / 15.1oz"
+      "value": "?"
     },
     "dimensions": {
-      "value": "105 x 60 x 6.5 mm"
+      "value": "104 x 60 x 60 mm"
     },
     "materials": {
-      "value": "Stainless Steel",
-      "texts": [
-        "304 stainless steel"
-      ]
+      "value": "Stainless Steel"
     },
     "include-all-tools": {
       "value": "YES",
@@ -83,21 +79,19 @@
     },
     "fire-proof": {
       "value": "YES",
-      "flag": "positive",
       "supported": true,
+      "flag": "positive",
       "texts": [
-        "Fire threshold of 1399 to 1455°C / 2550 to 2651°F"
+        "Industrial-grade stainless steel plates can resist fire and temperature as high as 2649 °F / 1454 °C."
       ]
     },
     "crush-proof": {
-      "value": "YES",
-      "flag": "positive",
-      "supported": true
+      "value": "?",
+      "supported": false
     },
     "corrosion-proof": {
-      "value": "YES",
-      "flag": "positive",
-      "supported": true
+      "value": "?",
+      "supported": false
     },
     "shock-proof": {
       "value": "?",
@@ -120,12 +114,9 @@
       "supported": false
     },
     "tamper-evident-seal": {
-      "value": "Partially",
-      "flag": "neutral",
-      "supported": true,
-      "texts": [
-        "Lock Hole. Close the tablet (can be fastened with a padlock). Locks are not included in the box"
-      ]
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
     }
   },
   "capacity": {
