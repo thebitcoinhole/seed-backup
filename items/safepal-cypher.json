@@ -145,8 +145,8 @@
       "supported": true
     },
     "shamir-backup": {
-      "value": "YES",
-      "flag": "positive",
+      "value": "1 share",
+      "flag": "neutral",
       "supported": true
     },
     "hexadecimal-strings": {

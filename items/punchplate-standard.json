@@ -1,6 +1,6 @@
 {
-  "id": "punchplate-3",
-  "name": "Punchplate III",
+  "id": "punchplate-standard",
+  "name": "Punchplate Standard",
   "purchasable": true,
   "basic-information": {
     "price": {
@@ -148,8 +148,8 @@
       "supported": true
     },
     "shamir-backup": {
-      "value": "YES",
-      "flag": "positive",
+      "value": "1 share",
+      "flag": "neutral",
       "supported": true
     },
     "hexadecimal-strings": {

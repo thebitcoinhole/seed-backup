@@ -68,9 +68,12 @@
       "value": "Stainless Steel & Aluminum"
     },
     "include-all-tools": {
-      "value": "YES",
-      "flag": "positive",
-      "supported": true
+      "value": "NO",
+      "flag": "negative",
+      "supported": false,
+      "texts": [
+        "Punch Set / Hammer not included"
+      ]
     },
     "water-proof": {
       "value": "YES",
@@ -121,9 +124,9 @@
   },
   "capacity": {
     "multiple-private-keys": {
-      "value": "NO",
-      "flag": "negative",
-      "supported": false
+      "value": "YES (4)",
+      "flag": "positive",
+      "supported": true
     }
   },
   "backup-compatibility": {
@@ -143,7 +146,7 @@
       "supported": true
     },
     "shamir-backup": {
-      "value": "YES",
+      "value": "4 shares",
       "flag": "positive",
       "supported": true
     },

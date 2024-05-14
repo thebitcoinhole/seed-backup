@@ -40,9 +40,9 @@
   },
   "payment-methods": {
     "btc-on-chain": {
-      "value": "NO",
-      "flag": "negative",
-      "supported": false
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
     },
     "btc-lightning": {
       "value": "NO",
@@ -155,7 +155,7 @@
       "supported": false
     },
     "shamir-backup": {
-      "value": "YES",
+      "value": "YES (3 shares)",
       "flag": "positive",
       "supported": true
     },

@@ -120,9 +120,9 @@
   },
   "capacity": {
     "multiple-private-keys": {
-      "value": "NO",
-      "flag": "negative",
-      "supported": false
+      "value": "YES (4)",
+      "flag": "positive",
+      "supported": true
     }
   },
   "backup-compatibility": {
@@ -142,14 +142,14 @@
       "supported": true
     },
     "shamir-backup": {
-      "value": "YES",
+      "value": "4 shares",
       "flag": "positive",
       "supported": true
     },
     "hexadecimal-strings": {
-      "value": "NO",
-      "flag": "negative",
-      "supported": false
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
     },
     "ascii-strings": {
       "value": "YES",

@@ -4,7 +4,7 @@
   "purchasable": true,
   "basic-information": {
     "price": {
-      "value": "$21"
+      "value": "$24.99"
     },
     "amazon": {
       "supported": false
@@ -148,8 +148,8 @@
       "supported": true
     },
     "shamir-backup": {
-      "value": "YES",
-      "flag": "positive",
+      "value": "1 share",
+      "flag": "neutral",
       "supported": true
     },
     "hexadecimal-strings": {
