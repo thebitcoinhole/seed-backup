@@ -1,10 +1,11 @@
 {
-  "id": "punchplate-mini-3-24",
-  "name": "Punchplate Mini III (24 Words)",
+  "id": "blockstream-seedqr-template-pack",
+  "name": "SeedQR Template Pack",
+  "full-name": "Blockstream SeedQR Template Pack",
   "purchasable": true,
   "basic-information": {
     "price": {
-      "value": "$24.99"
+      "value": "$4.99"
     },
     "amazon": {
       "supported": false
@@ -12,43 +13,46 @@
   },
   "company": {
     "brand": {
-      "value": "Codl Storage Solutions"
+      "value": "Blockstream"
     },
     "headquarters": {
-      "value": "USA"
+      "value": "Canada"
     },
     "website": {
-      "value": "codl.co",
-      "url": "https://codl.co/"
+      "value": "blockstream.com",
+      "url": "https://blockstream.com/"
     },
     "blog": {
-      "value": "-"
+      "value": "blog.blockstream.com",
+      "url": "https://blog.blockstream.com/blockstream-jade/"
     },
     "twitter": {
-      "value": "@CodlStorage",
-      "url": "https://x.com/CodlStorage"
+      "value": "@Blockstream",
+      "url": "https://x.com/Blockstream"
     },
     "nostr": {
-      "value": "-"
+      "value": "Blockstream",
+      "url": "https://primal.net/p/npub1jg552aulj07skd6e7y2hu0vl5g8nl5jvfw8jhn6jpjk0vjd0waksvl6n8n"
     },
     "youtube": {
-      "value": "-"
+      "value": "@Blockstream",
+      "url": "https://www.youtube.com/@Blockstream"
     }
   },
   "payment-methods": {
     "btc-on-chain": {
-      "value": "YES",
+      "value": "YES (via BTCPay)",
       "flag": "positive",
       "supported": true
     },
     "btc-lightning": {
-      "value": "NO",
-      "flag": "negative",
-      "supported": false
+      "value": "YES (via BTCPay)",
+      "flag": "positive",
+      "supported": true
     },
     "alt-coins": {
-      "value": "NO",
-      "supported": false
+      "value": "YES (via BTCPay)",
+      "supported": true
     },
     "credit-debit-card": {
       "value": "YES",
@@ -63,48 +67,42 @@
       "value": "?"
     },
     "materials": {
-      "value": "Stainless Steel"
+      "value": "Paper"
     },
     "include-all-tools": {
       "value": "YES",
       "flag": "positive",
-      "supported": true,
-      "texts": [
-        "Punch-tool included"
-      ]
+      "supported": true
     },
     "water-proof": {
-      "value": "YES",
-      "flag": "positive",
-      "supported": true
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
     },
     "fire-proof": {
-      "value": "YES",
-      "flag": "positive",
-      "supported": true
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
     },
     "crush-proof": {
-      "value": "YES",
-      "flag": "positive",
-      "supported": true
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
     },
     "corrosion-proof": {
-      "value": "YES",
-      "flag": "positive",
-      "supported": true
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
     },
     "shock-proof": {
-      "value": "?"
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
     },
     "stress-tests": {
-      "value": "YES",
-      "supported": true,
-      "links": [
-        {
-          "title": "Jameson Lopp's stress tests",
-          "url": "https://jlopp.github.io/metal-bitcoin-storage-reviews/reviews/codl-punchplate/"
-        }
-      ]
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
     }
   },
   "security": {
@@ -138,24 +136,24 @@
       "supported": false
     },
     "bip39-12-words": {
-      "value": "YES",
-      "flag": "positive",
-      "supported": true
-    },
-    "bip39-24-words": {
-      "value": "YES",
-      "flag": "positive",
-      "supported": true
-    },
-    "seed-qr": {
       "value": "NO",
       "flag": "negative",
       "supported": false
     },
-    "shamir-backup": {
-      "value": "1 share",
-      "flag": "neutral",
+    "bip39-24-words": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
+    "seed-qr": {
+      "value": "YES",
+      "flag": "positive",
       "supported": true
+    },
+    "shamir-backup": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
     },
     "hexadecimal-strings": {
       "value": "NO",

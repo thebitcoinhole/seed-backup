@@ -154,6 +154,11 @@
       "flag": "positive",
       "supported": true
     },
+    "seed-qr": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
     "shamir-backup": {
       "value": "2 shares",
       "flag": "neutral",

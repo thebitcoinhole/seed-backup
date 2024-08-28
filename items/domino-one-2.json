@@ -143,6 +143,11 @@
       "flag": "negative",
       "supported": false
     },
+    "seed-qr": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
     "shamir-backup": {
       "value": "NO",
       "flag": "negative",
