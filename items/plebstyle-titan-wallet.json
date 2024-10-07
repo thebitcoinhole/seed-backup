@@ -1,0 +1,180 @@
+{
+  "id": "Plebstyle-Titan-Wallet",
+  "name": "Titan Wallet",
+  "purchasable": true,
+  "basic-information": {
+    "price": {
+      "value": "€55"
+    },
+    "amazon": {
+      "supported": false
+    }
+  },
+  "company": {
+    "brand": {
+      "value": "Plebstyle"
+    },
+    "headquarters": {
+      "value": "Germany"
+    },
+    "website": {
+      "value": "pleb.style",
+      "url": "https://pleb.style/en/"
+    },
+    "blog": {
+      "value": "-"
+    },
+    "twitter": {
+      "value": "@Pleb_Style",
+      "url": "https://x.com/Pleb_Style"
+    },
+    "nostr": {
+      "value": "Plebstyle",
+      "url": "https://primal.net/p/npub1n8jnpz9gfzuc23w8h4tud4y3qshl5cz9ma8fdhmf0syyzgdth0aqhswl3h"
+    },
+    "youtube": {
+      "value": "@Pleb_Style",
+      "url": "https://www.youtube.com/@Pleb_Style"
+    }
+  },
+  "payment-methods": {
+    "btc-on-chain": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "btc-lightning": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "alt-coins": {
+      "value": "NO",
+      "supported": false
+    },
+    "credit-debit-card": {
+      "value": "YES",
+      "supported": true
+    }
+  },
+  "size-materials": {
+    "weight": {
+      "value": "420g / 14.82oz"
+    },
+    "dimensions": {
+      "value": "75mm x Ø27mm (Caps: Ø33mm)"
+    },
+    "materials": {
+      "value": "Stainless Steel and Titanium",
+      "texts": [
+        "Titanium alloyed Stainless Steel 316Ti and Titanium Grade 5 – Perfect for SIMULTANEOUS strength and heat resistance"
+      ]
+    },
+    "include-all-tools": {
+      "value": "Start Set required or Print@Home",
+      "url": "https://www.thingiverse.com/plebstyle/designs",
+      "flag": "positive",
+      "supported": true
+    },
+    "water-proof": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "fire-proof": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "crush-proof": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "corrosion-proof": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "shock-proof": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "stress-tests": {
+      "value": "YES",
+      "supported": true,
+      "links": [
+        {
+          "title": "Material Comparison",
+          "url": "https://pleb.style/en/pages/titan-vs-terra"
+        },
+        {
+          "title": "Youtube: Steel Wallet Material",
+          "url": "https://youtu.be/i-tGkvMCQ0M?si=VXq5GlP9egC_y0YG"
+        }
+      ]
+    }
+  },
+  "security": {
+    "pin-protection": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
+    "encrypted-backup": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
+    "tamper-evident-seal": {
+      "value": "Add. Option",
+      "flag": "neutral",
+      "supported": true
+    }
+  },
+  "capacity": {
+    "multiple-private-keys": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    }
+  },
+  "backup-compatibility": {
+    "output-descriptor": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
+    "bip39-12-words": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "bip39-24-words": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
+    },
+    "seed-qr": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    },
+    "shamir-backup": {
+      "value": "1 share",
+      "flag": "neutral",
+      "supported": true
+    },
+    "hexadecimal-strings": {
+      "value": "YES",
+      "flag": "positive",
+      "supported": false
+    },
+    "ascii-strings": {
+      "value": "NO",
+      "flag": "negative",
+      "supported": false
+    }
+  }
+}
