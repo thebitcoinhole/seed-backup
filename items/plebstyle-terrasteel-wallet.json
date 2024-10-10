@@ -74,13 +74,13 @@
     "include-all-tools": {
       "value": "Starter Set required",
       "links": [
-    {
-      "title": "Print@Home",
-      "url": "https://www.thingiverse.com/plebstyle/designs"
-    }
-],
-"flag": "neutral",
-"supported": true
+        {
+          "title": "Print@Home",
+          "url": "https://www.thingiverse.com/plebstyle/designs"
+        }
+      ],
+      "flag": "neutral",
+      "supported": true
     },
     "water-proof": {
       "value": "YES",
