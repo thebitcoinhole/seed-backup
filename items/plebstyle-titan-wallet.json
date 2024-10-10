@@ -1,5 +1,5 @@
 {
-  "id": "Plebstyle-Titan-Wallet",
+  "id": "plebstyle-titan-wallet",
   "name": "Titan Wallet",
   "purchasable": true,
   "basic-information": {
@@ -62,7 +62,8 @@
       "value": "420g / 14.82oz"
     },
     "dimensions": {
-      "value": "75mm x Ø27mm (Caps: Ø33mm)"
+      "value": "75 x 27 x 27mm",
+      "texts": "Caps: Ø33mm"
     },
     "materials": {
       "value": "Stainless Steel and Titanium",
@@ -71,10 +72,15 @@
       ]
     },
     "include-all-tools": {
-      "value": "Start Set required or Print@Home",
-      "url": "https://www.thingiverse.com/plebstyle/designs",
-      "flag": "positive",
-      "supported": true
+      "value": "Starter Set required",
+      "links": [
+    {
+      "title": "Print@Home",
+      "url": "https://www.thingiverse.com/plebstyle/designs"
+    }
+],
+"flag": "neutral",
+"supported": true
     },
     "water-proof": {
       "value": "YES",
@@ -128,7 +134,7 @@
       "supported": false
     },
     "tamper-evident-seal": {
-      "value": "Add. Option",
+      "value": "Optional - 5 for 3€",
       "flag": "neutral",
       "supported": true
     }
