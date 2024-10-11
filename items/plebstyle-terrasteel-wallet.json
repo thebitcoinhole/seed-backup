@@ -63,7 +63,9 @@
     },
     "dimensions": {
       "value": "65 x 27 x 27mm",
-      "texts": "Caps: Ø33mm"
+      "texts": [
+        "Caps: Ø33mm"
+      ]
     },
     "materials": {
       "value": "Stainless Steel",
