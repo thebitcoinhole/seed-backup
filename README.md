@@ -79,7 +79,7 @@ All the features supported:
 | --- | --- | --- | --- |
 | Basic Information | basic-information | Price | price |
 | Basic Information | basic-information | Discounts | discounts |
-| Basic Information | basic-information | Amazon Official Store | amazon |
+| Basic Information | basic-information | Available at Amazon | amazon |
 | Company | company | Brand | brand |
 | Company | company | Headquarters | headquarters |
 | Company | company | Website | website |
@@ -94,12 +94,21 @@ All the features supported:
 | Size & Materials | size-materials | Weight | weight |
 | Size & Materials | size-materials | Dimensions | dimensions |
 | Size & Materials | size-materials | Materials | materials |
+| Size & Materials | size-materials | Include All Tools | include-all-tools |
 | Size & Materials | size-materials | Water-proof | water-proof |
 | Size & Materials | size-materials | Fire-proof | fire-proof |
+| Size & Materials | size-materials | Crush-proof | crush-proof |
+| Size & Materials | size-materials | Corrosion-proof | corrosion-proof |
+| Size & Materials | size-materials | Shock-proof | shock-proof |
 | Size & Materials | size-materials | Stress tests | stress-tests |
+| Security | security | PIN Protection | pin-protection |
+| Security | security | Encrypted Backup | encrypted-backup |
+| Security | security | Tamper Evident Seal | tamper-evident-seal |
+| Capacity | capacity | Multiple Private Keys | multiple-private-keys |
 | Backup Compatibility | backup-compatibility | Output Descriptor | output-descriptor |
 | Backup Compatibility | backup-compatibility | 12 Words BIP39 | bip39-12-words |
 | Backup Compatibility | backup-compatibility | 24 Words BIP39 | bip39-24-words |
+| Backup Compatibility | backup-compatibility | Seed QR | seed-qr |
 | Backup Compatibility | backup-compatibility | Shamir Backup SLIP39 | shamir-backup |
 | Backup Compatibility | backup-compatibility | Hexadecimal Strings | hexadecimal-strings |
 | Backup Compatibility | backup-compatibility | ASCII Strings | ascii-strings |
