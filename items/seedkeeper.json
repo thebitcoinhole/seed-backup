@@ -124,16 +124,16 @@
   },
   "capacity": {
     "multiple-private-keys": {
-      "value": "YES (12)",
+      "value": "YES (100)",
       "flag": "positive",
       "supported": true
     }
   },
   "backup-compatibility": {
     "output-descriptor": {
-      "value": "NO",
-      "flag": "negative",
-      "supported": false
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
     },
     "bip39-12-words": {
       "value": "YES",
@@ -146,9 +146,9 @@
       "supported": true
     },
     "seed-qr": {
-      "value": "NO",
-      "flag": "negative",
-      "supported": false
+      "value": "YES",
+      "flag": "positive",
+      "supported": true
     },
     "shamir-backup": {
       "value": "YES",
