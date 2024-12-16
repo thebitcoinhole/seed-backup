@@ -3,14 +3,6 @@
   "name": "Seed Phrase Steel",
   "full-name": "Ellipal Seed Phrase Steel",
   "purchasable": true,
-  "basic-information": {
-    "price": {
-      "value": "$59"
-    },
-    "amazon": {
-      "supported": false
-    }
-  },
   "company": {
     "brand": {
       "value": "Ellipal"

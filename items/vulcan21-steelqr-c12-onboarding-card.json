@@ -2,14 +2,6 @@
   "id": "vulcan21-steelqr-c12-onboarding-card",
   "name": "Steel QR C12 (Onboarding Card)",
   "purchasable": true,
-  "basic-information": {
-    "price": {
-      "value": "€19.90"
-    },
-    "amazon": {
-      "supported": false
-    }
-  },
   "company": {
     "brand": {
       "value": "Vulcan 21"

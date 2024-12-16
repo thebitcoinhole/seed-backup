@@ -2,14 +2,6 @@
   "id": "seedkeeper",
   "name": "Seedkeeper",
   "purchasable": true,
-  "basic-information": {
-    "price": {
-      "value": "$25"
-    },
-    "amazon": {
-      "supported": false
-    }
-  },
   "company": {
     "brand": {
       "value": "Satochip"

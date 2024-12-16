@@ -2,14 +2,6 @@
   "id": "vulcan21-steelqr-c24-full-backup",
   "name": "Steel QR C24 (Full Backup)",
   "purchasable": true,
-  "basic-information": {
-    "price": {
-      "value": "€29.90"
-    },
-    "amazon": {
-      "supported": false
-    }
-  },
   "company": {
     "brand": {
       "value": "Vulcan 21"

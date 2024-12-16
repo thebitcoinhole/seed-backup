@@ -4,14 +4,6 @@
   "full-name": "Trezor Keep Metal (Shamir Backup)",
   "enabled": false,
   "purchasable": true,
-  "basic-information": {
-    "price": {
-      "value": "$249"
-    },
-    "amazon": {
-      "supported": false
-    }
-  },
   "company": {
     "brand": {
       "value": "Trezor"

@@ -3,14 +3,6 @@
   "name": "SeedQR Template Pack",
   "full-name": "Blockstream SeedQR Template Pack",
   "purchasable": true,
-  "basic-information": {
-    "price": {
-      "value": "$4.99"
-    },
-    "amazon": {
-      "supported": false
-    }
-  },
   "company": {
     "brand": {
       "value": "Blockstream"

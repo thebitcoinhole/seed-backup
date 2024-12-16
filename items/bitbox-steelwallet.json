@@ -2,14 +2,6 @@
   "id": "bitbox-steelwallet",
   "name": "Steelwallet",
   "purchasable": true,
-  "basic-information": {
-    "price": {
-      "value": "$58"
-    },
-    "amazon": {
-      "supported": true
-    }
-  },
   "company": {
     "brand": {
       "value": "BitBox"

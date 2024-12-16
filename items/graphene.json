@@ -2,14 +2,6 @@
   "id": "graphene",
   "name": "Graphene",
   "purchasable": true,
-  "basic-information": {
-    "price": {
-      "value": "$148"
-    },
-    "amazon": {
-      "supported": false
-    }
-  },
   "company": {
     "brand": {
       "value": "NGrave"

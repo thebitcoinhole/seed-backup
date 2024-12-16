@@ -3,14 +3,6 @@
   "name": "Tablet",
   "full-name": "Keystone Tablet",
   "purchasable": true,
-  "basic-information": {
-    "price": {
-      "value": "$39"
-    },
-    "amazon": {
-      "supported": true
-    }
-  },
   "company": {
     "brand": {
       "value": "Keystone"

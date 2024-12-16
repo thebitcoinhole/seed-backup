@@ -2,14 +2,6 @@
   "id": "punchplate-standard",
   "name": "Punchplate Standard",
   "purchasable": true,
-  "basic-information": {
-    "price": {
-      "value": "$24.99"
-    },
-    "amazon": {
-      "supported": false
-    }
-  },
   "company": {
     "brand": {
       "value": "Codl Storage Solutions"

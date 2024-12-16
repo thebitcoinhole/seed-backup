@@ -3,14 +3,6 @@
   "name": "KeyTag",
   "full-name": "OneKey KeyTag",
   "purchasable": true,
-  "basic-information": {
-    "price": {
-      "value": "$59"
-    },
-    "amazon": {
-      "supported": true
-    }
-  },
   "company": {
     "brand": {
       "value": "OneKey"

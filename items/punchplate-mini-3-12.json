@@ -2,14 +2,6 @@
   "id": "punchplate-mini-3-12",
   "name": "Punchplate Mini III (12 Words)",
   "purchasable": true,
-  "basic-information": {
-    "price": {
-      "value": "$24.99"
-    },
-    "amazon": {
-      "supported": false
-    }
-  },
   "company": {
     "brand": {
       "value": "Codl Storage Solutions"

@@ -2,14 +2,6 @@
   "id": "onekey-lite",
   "name": "OneKey Lite",
   "purchasable": true,
-  "basic-information": {
-    "price": {
-      "value": "$25.90"
-    },
-    "amazon": {
-      "supported": true
-    }
-  },
   "company": {
     "brand": {
       "value": "OneKey"

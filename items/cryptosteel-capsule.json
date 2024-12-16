@@ -3,14 +3,6 @@
   "name": "Capsule",
   "full-name": "Cryptosteel Capsule",
   "purchasable": true,
-  "basic-information": {
-    "price": {
-      "value": "$99"
-    },
-    "amazon": {
-      "supported": true
-    }
-  },
   "company": {
     "brand": {
       "value": "Cryptosteel"

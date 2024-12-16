@@ -2,14 +2,6 @@
   "id": "plebstyle-titan-wallet",
   "name": "Titan Wallet",
   "purchasable": true,
-  "basic-information": {
-    "price": {
-      "value": "€55"
-    },
-    "amazon": {
-      "supported": false
-    }
-  },
   "company": {
     "brand": {
       "value": "Plebstyle"

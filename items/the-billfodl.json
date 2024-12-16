@@ -2,14 +2,6 @@
   "id": "the-billfodl",
   "name": "The Billfodl",
   "purchasable": true,
-  "basic-information": {
-    "price": {
-      "value": "$99"
-    },
-    "amazon": {
-      "supported": true
-    }
-  },
   "company": {
     "brand": {
       "value": "Privacy Pros"

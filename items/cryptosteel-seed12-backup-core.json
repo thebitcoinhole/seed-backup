@@ -2,14 +2,6 @@
   "id": "cryptosteel-seed12-backup-core",
   "name": "Seed12 Backup Core",
   "purchasable": true,
-  "basic-information": {
-    "price": {
-      "value": "$30"
-    },
-    "amazon": {
-      "supported": false
-    }
-  },
   "company": {
     "brand": {
       "value": "Cryptosteel"

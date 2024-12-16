@@ -3,14 +3,6 @@
   "name": "Tablet Punch",
   "full-name": "Keystone Tablet Punch",
   "purchasable": true,
-  "basic-information": {
-    "price": {
-      "value": "$24"
-    },
-    "amazon": {
-      "supported": true
-    }
-  },
   "company": {
     "brand": {
       "value": "Keystone"
