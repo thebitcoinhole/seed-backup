@@ -2,7 +2,6 @@
   "id": "trezor-keep-metal-shamir",
   "name": "Keep Metal (Shamir Backup)",
   "full-name": "Trezor Keep Metal (Shamir Backup)",
-  "enabled": false,
   "purchasable": true,
   "basic-information": {
     "price": {
