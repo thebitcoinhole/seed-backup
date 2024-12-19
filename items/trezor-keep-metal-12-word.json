@@ -3,14 +3,6 @@
   "name": "Keep Metal (12 word)",
   "full-name": "Trezor Keep Metal (12 word)",
   "purchasable": true,
-  "basic-information": {
-    "price": {
-      "value": "$99"
-    },
-    "amazon": {
-      "supported": false
-    }
-  },
   "company": {
     "brand": {
       "value": "Trezor"

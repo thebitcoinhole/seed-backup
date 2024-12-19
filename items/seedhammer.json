@@ -2,14 +2,6 @@
   "id": "seedhammer",
   "name": "Seedhammer",
   "purchasable": true,
-  "basic-information": {
-    "price": {
-      "value": "$599"
-    },
-    "amazon": {
-      "supported": false
-    }
-  },
   "company": {
     "brand": {
       "value": "Seedhammer"

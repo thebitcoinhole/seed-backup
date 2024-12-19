@@ -3,14 +3,6 @@
   "name": "Cassette",
   "full-name": "Cryptosteel Cassette",
   "purchasable": true,
-  "basic-information": {
-    "price": {
-      "value": "$187"
-    },
-    "amazon": {
-      "supported": false
-    }
-  },
   "company": {
     "brand": {
       "value": "Cryptosteel"

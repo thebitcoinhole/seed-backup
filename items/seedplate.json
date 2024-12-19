@@ -2,14 +2,6 @@
   "id": "seedplate",
   "name": "Seedplate",
   "purchasable": true,
-  "basic-information": {
-    "price": {
-      "value": "$49.97"
-    },
-    "amazon": {
-      "supported": false
-    }
-  },
   "company": {
     "brand": {
       "value": "Coinkite"

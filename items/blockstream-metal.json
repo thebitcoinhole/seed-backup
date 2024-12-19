@@ -3,14 +3,6 @@
   "name": "Metal",
   "full-name": "Blockstream Metal",
   "purchasable": true,
-  "basic-information": {
-    "price": {
-      "value": "$149.99"
-    },
-    "amazon": {
-      "supported": false
-    }
-  },
   "company": {
     "brand": {
       "value": "Blockstream"

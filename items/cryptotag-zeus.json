@@ -3,14 +3,6 @@
   "name": "Zeus",
   "full-name": "Cryptotag Zeus",
   "purchasable": true,
-  "basic-information": {
-    "price": {
-      "value": "$129"
-    },
-    "amazon": {
-      "supported": true
-    }
-  },
   "company": {
     "brand": {
       "value": "Cryptotag"

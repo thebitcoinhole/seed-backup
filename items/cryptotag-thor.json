@@ -3,14 +3,6 @@
   "name": "Thor",
   "full-name": "Cryptotag Thor",
   "purchasable": true,
-  "basic-information": {
-    "price": {
-      "value": "$350"
-    },
-    "amazon": {
-      "supported": false
-    }
-  },
   "company": {
     "brand": {
       "value": "Cryptotag"

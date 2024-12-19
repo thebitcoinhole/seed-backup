@@ -2,14 +2,6 @@
   "id": "seedor-safe",
   "name": "Seedor Safe",
   "purchasable": true,
-  "basic-information": {
-    "price": {
-      "value": "$57.98"
-    },
-    "amazon": {
-      "supported": true
-    }
-  },
   "company": {
     "brand": {
       "value": "Seedor"

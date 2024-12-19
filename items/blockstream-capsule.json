@@ -3,14 +3,6 @@
   "name": "Capsule",
   "full-name": "Blockstream Capsule",
   "purchasable": true,
-  "basic-information": {
-    "price": {
-      "value": "$99"
-    },
-    "amazon": {
-      "supported": false
-    }
-  },
   "company": {
     "brand": {
       "value": "Blockstream"

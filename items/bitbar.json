@@ -2,14 +2,6 @@
   "id": "bitbar",
   "name": "BitBar",
   "purchasable": true,
-  "basic-information": {
-    "price": {
-      "value": "$209"
-    },
-    "amazon": {
-      "supported": false
-    }
-  },
   "company": {
     "brand": {
       "value": "BitBar"

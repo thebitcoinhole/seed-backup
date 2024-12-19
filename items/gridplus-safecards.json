@@ -2,14 +2,6 @@
   "id": "gridplus-safecards",
   "name": "SafeCards",
   "purchasable": true,
-  "basic-information": {
-    "price": {
-      "value": "$40"
-    },
-    "amazon": {
-      "supported": false
-    }
-  },
   "company": {
     "brand": {
       "value": "Grid+"

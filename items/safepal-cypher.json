@@ -3,14 +3,6 @@
   "name": "Cypher",
   "full-name": "Safepal Cypher",
   "purchasable": true,
-  "basic-information": {
-    "price": {
-      "value": "$44.99"
-    },
-    "amazon": {
-      "supported": true
-    }
-  },
   "company": {
     "brand": {
       "value": "SafePal"

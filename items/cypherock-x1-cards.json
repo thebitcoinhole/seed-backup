@@ -2,14 +2,6 @@
   "id": "cypherock-x1-cards",
   "name": "Cypherock X1 Cards",
   "purchasable": true,
-  "basic-information": {
-    "price": {
-      "value": "$79"
-    },
-    "amazon": {
-      "supported": false
-    }
-  },
   "company": {
     "brand": {
       "value": "Cypherock"

@@ -2,14 +2,6 @@
   "id": "cryptosteel-seed12-security-kit",
   "name": "Seed12 Security Kit",
   "purchasable": true,
-  "basic-information": {
-    "price": {
-      "value": "$59"
-    },
-    "amazon": {
-      "supported": false
-    }
-  },
   "company": {
     "brand": {
       "value": "Cryptosteel"

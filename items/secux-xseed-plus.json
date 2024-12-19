@@ -2,14 +2,6 @@
   "id": "secux-xseed-plus",
   "name": "X-SEED Plus",
   "purchasable": true,
-  "basic-information": {
-    "price": {
-      "value": "$59"
-    },
-    "amazon": {
-      "supported": true
-    }
-  },
   "company": {
     "brand": {
       "value": "SecuX"

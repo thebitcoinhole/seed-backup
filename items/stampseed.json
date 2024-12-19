@@ -2,14 +2,6 @@
   "id": "stampseed",
   "name": "Stamp Seed",
   "purchasable": true,
-  "basic-information": {
-    "price": {
-      "value": "$120"
-    },
-    "amazon": {
-      "supported": false
-    }
-  },
   "company": {
     "brand": {
       "value": "ImpressArt"

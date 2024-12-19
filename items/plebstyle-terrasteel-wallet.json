@@ -2,14 +2,6 @@
   "id": "plebstyle-terrasteel-wallet",
   "name": "Titan TerraSteel",
   "purchasable": true,
-  "basic-information": {
-    "price": {
-      "value": "€26"
-    },
-    "amazon": {
-      "supported": false
-    }
-  },
   "company": {
     "brand": {
       "value": "Plebstyle"

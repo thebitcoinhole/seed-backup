@@ -2,14 +2,6 @@
   "id": "domino-one-2",
   "name": "Domino One 2",
   "purchasable": true,
-  "basic-information": {
-    "price": {
-      "value": "£85.50"
-    },
-    "amazon": {
-      "supported": false
-    }
-  },
   "company": {
     "brand": {
       "value": "Bitplates"

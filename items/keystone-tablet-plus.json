@@ -3,14 +3,6 @@
   "name": "Tablet Plus",
   "full-name": "Keystone Tablet Plus",
   "purchasable": true,
-  "basic-information": {
-    "price": {
-      "value": "$49"
-    },
-    "amazon": {
-      "supported": true
-    }
-  },
   "company": {
     "brand": {
       "value": "Keystone"

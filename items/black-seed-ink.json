@@ -2,14 +2,6 @@
   "id": "black-seed-ink",
   "name": "Black Seed Ink",
   "purchasable": true,
-  "basic-information": {
-    "price": {
-      "value": "$27"
-    },
-    "amazon": {
-      "supported": false
-    }
-  },
   "company": {
     "brand": {
       "value": "Black Seed Ink"
