@@ -1,10 +1,10 @@
 {
-  "id": "seedhammer",
-  "name": "Seedhammer",
+  "id": "seedhammer-2",
+  "name": "SeedHammer II",
   "purchasable": true,
   "company": {
     "brand": {
-      "value": "Seedhammer"
+      "value": "SeedHammer"
     },
     "headquarters": {
       "value": "-"
@@ -52,10 +52,10 @@
   },
   "size-materials": {
     "weight": {
-      "value": "?"
+      "value": "4000g / 141oz"
     },
     "dimensions": {
-      "value": "?"
+      "value": "210 x 210 x 210 mm"
     },
     "materials": {
       "value": "Stainless Steel",
