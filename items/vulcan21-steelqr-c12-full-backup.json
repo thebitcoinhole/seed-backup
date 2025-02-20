@@ -2,31 +2,7 @@
   "id": "vulcan21-steelqr-c12-full-backup",
   "name": "Steel QR C12 (Full Backup)",
   "purchasable": true,
-  "company": {
-    "brand": {
-      "value": "Vulcan 21"
-    },
-    "headquarters": {
-      "value": "-"
-    },
-    "website": {
-      "value": "vulcan21.com",
-      "url": "https://vulcan21.com/"
-    },
-    "blog": {
-      "value": "-"
-    },
-    "twitter": {
-      "value": "@vulcan21com",
-      "url": "https://x.com/vulcan21com"
-    },
-    "nostr": {
-      "value": "-"
-    },
-    "youtube": {
-      "value": "-"
-    }
-  },
+  "company": "vulcan-21",
   "payment-methods": {
     "btc-on-chain": {
       "value": "YES",

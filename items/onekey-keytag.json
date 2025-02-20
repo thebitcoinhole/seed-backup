@@ -3,32 +3,7 @@
   "name": "KeyTag",
   "full-name": "OneKey KeyTag",
   "purchasable": true,
-  "company": {
-    "brand": {
-      "value": "OneKey"
-    },
-    "headquarters": {
-      "value": "Hong Kong"
-    },
-    "website": {
-      "value": "onekey.so",
-      "url": "https://onekey.so/"
-    },
-    "blog": {
-      "value": "blog.onekey.so",
-      "url": "https://blog.onekey.so/"
-    },
-    "twitter": {
-      "value": "@OneKeyHQ",
-      "url": "https://x.com/OneKeyHQ"
-    },
-    "nostr": {
-      "value": "-"
-    },
-    "youtube": {
-      "value": "-"
-    }
-  },
+  "company": "one-key",
   "payment-methods": {
     "btc-on-chain": {
       "value": "YES (via MixPay or Coinbase Commerce)",

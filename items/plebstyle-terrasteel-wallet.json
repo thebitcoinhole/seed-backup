@@ -2,33 +2,7 @@
   "id": "plebstyle-terrasteel-wallet",
   "name": "Titan TerraSteel",
   "purchasable": true,
-  "company": {
-    "brand": {
-      "value": "Plebstyle"
-    },
-    "headquarters": {
-      "value": "Germany"
-    },
-    "website": {
-      "value": "pleb.style",
-      "url": "https://pleb.style/en/"
-    },
-    "blog": {
-      "value": "-"
-    },
-    "twitter": {
-      "value": "@Pleb_Style",
-      "url": "https://x.com/Pleb_Style"
-    },
-    "nostr": {
-      "value": "Plebstyle",
-      "url": "https://primal.net/p/npub1n8jnpz9gfzuc23w8h4tud4y3qshl5cz9ma8fdhmf0syyzgdth0aqhswl3h"
-    },
-    "youtube": {
-      "value": "@Pleb_Style",
-      "url": "https://www.youtube.com/@Pleb_Style"
-    }
-  },
+  "company": "plebstyle",
   "payment-methods": {
     "btc-on-chain": {
       "value": "YES",

@@ -2,33 +2,7 @@
   "id": "seedkeeper",
   "name": "Seedkeeper",
   "purchasable": true,
-  "company": {
-    "brand": {
-      "value": "Satochip"
-    },
-    "headquarters": {
-      "value": "Belgium"
-    },
-    "website": {
-      "value": "satochip.io",
-      "url": "https://satochip.io/"
-    },
-    "blog": {
-      "value": "satochip.medium.com",
-      "url": "https://satochip.medium.com/"
-    },
-    "twitter": {
-      "value": "@Satochip",
-      "url": "https://x.com/Satochip"
-    },
-    "nostr": {
-      "value": "-"
-    },
-    "youtube": {
-      "value": "@satochip953",
-      "url": "https://www.youtube.com/@satochip953"
-    }
-  },
+  "company": "satochip",
   "payment-methods": {
     "btc-on-chain": {
       "value": "YES (via BTCPay)",

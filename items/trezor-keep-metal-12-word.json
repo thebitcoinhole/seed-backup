@@ -3,33 +3,7 @@
   "name": "Keep Metal (12 word)",
   "full-name": "Trezor Keep Metal (12 word)",
   "purchasable": true,
-  "company": {
-    "brand": {
-      "value": "Trezor"
-    },
-    "headquarters": {
-      "value": "Czech Republic"
-    },
-    "website": {
-      "value": "trezor.io",
-      "url": "https://trezor.io/"
-    },
-    "blog": {
-      "value": "blog.trezor.io",
-      "url": "https://blog.trezor.io/"
-    },
-    "twitter": {
-      "value": "@TREZOR",
-      "url": "https://x.com/TREZOR"
-    },
-    "nostr": {
-      "value": "-"
-    },
-    "youtube": {
-      "value": "@TrezorWallet",
-      "url": "https://www.youtube.com/@TrezorWallet"
-    }
-  },
+  "company": "trezor",
   "payment-methods": {
     "btc-on-chain": {
       "value": "YES (via Confirmo.net)",

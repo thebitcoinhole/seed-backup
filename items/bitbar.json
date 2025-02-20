@@ -2,32 +2,7 @@
   "id": "bitbar",
   "name": "BitBar",
   "purchasable": true,
-  "company": {
-    "brand": {
-      "value": "BitBar"
-    },
-    "headquarters": {
-      "value": "Switzerland"
-    },
-    "website": {
-      "value": "bitbarswiss.com",
-      "url": "https://www.bitbarswiss.com/"
-    },
-    "blog": {
-      "value": "-"
-    },
-    "twitter": {
-      "value": "@BitBarSwiss",
-      "url": "https://x.com/BitBarSwiss"
-    },
-    "nostr": {
-      "value": "-"
-    },
-    "youtube": {
-      "value": "@bitbarswiss",
-      "url": "https://www.youtube.com/@bitbarswiss"
-    }
-  },
+  "company": "bit-bar",
   "payment-methods": {
     "btc-on-chain": {
       "value": "YES",

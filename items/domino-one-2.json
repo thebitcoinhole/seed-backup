@@ -2,32 +2,7 @@
   "id": "domino-one-2",
   "name": "Domino One 2",
   "purchasable": true,
-  "company": {
-    "brand": {
-      "value": "Bitplates"
-    },
-    "headquarters": {
-      "value": "England"
-    },
-    "website": {
-      "value": "bitplates.com",
-      "url": "https://www.bitplates.com/"
-    },
-    "blog": {
-      "value": "-"
-    },
-    "twitter": {
-      "value": "@BitPLATES",
-      "url": "https://x.com/BitPLATES"
-    },
-    "nostr": {
-      "value": "-"
-    },
-    "youtube": {
-      "value": "@BitPLATES",
-      "url": "https://www.youtube.com/@BitPLATES"
-    }
-  },
+  "company": "bitplates",
   "payment-methods": {
     "btc-on-chain": {
       "value": "YES",

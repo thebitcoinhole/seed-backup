@@ -2,33 +2,7 @@
   "id": "gridplus-safecards",
   "name": "SafeCards",
   "purchasable": true,
-  "company": {
-    "brand": {
-      "value": "Grid+"
-    },
-    "headquarters": {
-      "value": "USA"
-    },
-    "website": {
-      "value": "Website",
-      "url": "https://gridplus.io/"
-    },
-    "blog": {
-      "value": "Blog",
-      "url": "https://blog.gridplus.io/"
-    },
-    "twitter": {
-      "value": "@gridplus",
-      "url": "https://x.com/gridplus"
-    },
-    "nostr": {
-      "value": "-"
-    },
-    "youtube": {
-      "value": "@GridPlus",
-      "url": "https://www.youtube.com/@GridPlus"
-    }
-  },
+  "company": "grid+",
   "payment-methods": {
     "btc-on-chain": {
       "value": "YES",

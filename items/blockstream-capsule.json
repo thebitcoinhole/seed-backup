@@ -3,34 +3,7 @@
   "name": "Capsule",
   "full-name": "Blockstream Capsule",
   "purchasable": true,
-  "company": {
-    "brand": {
-      "value": "Blockstream"
-    },
-    "headquarters": {
-      "value": "Canada"
-    },
-    "website": {
-      "value": "blockstream.com",
-      "url": "https://blockstream.com/"
-    },
-    "blog": {
-      "value": "blog.blockstream.com",
-      "url": "https://blog.blockstream.com/blockstream-jade/"
-    },
-    "twitter": {
-      "value": "@Blockstream",
-      "url": "https://x.com/Blockstream"
-    },
-    "nostr": {
-      "value": "Blockstream",
-      "url": "https://primal.net/p/npub1jg552aulj07skd6e7y2hu0vl5g8nl5jvfw8jhn6jpjk0vjd0waksvl6n8n"
-    },
-    "youtube": {
-      "value": "@Blockstream",
-      "url": "https://www.youtube.com/@Blockstream"
-    }
-  },
+  "company": "blockstream",
   "payment-methods": {
     "btc-on-chain": {
       "value": "YES (via BTCPay)",

@@ -2,31 +2,7 @@
   "id": "punchplate-mini-3-12",
   "name": "Punchplate Mini III (12 Words)",
   "purchasable": true,
-  "company": {
-    "brand": {
-      "value": "Codl Storage Solutions"
-    },
-    "headquarters": {
-      "value": "USA"
-    },
-    "website": {
-      "value": "codl.co",
-      "url": "https://codl.co/"
-    },
-    "blog": {
-      "value": "-"
-    },
-    "twitter": {
-      "value": "@CodlStorage",
-      "url": "https://x.com/CodlStorage"
-    },
-    "nostr": {
-      "value": "-"
-    },
-    "youtube": {
-      "value": "-"
-    }
-  },
+  "company": "codl-storage-solutions",
   "payment-methods": {
     "btc-on-chain": {
       "value": "YES",

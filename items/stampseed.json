@@ -2,31 +2,7 @@
   "id": "stampseed",
   "name": "Stamp Seed",
   "purchasable": true,
-  "company": {
-    "brand": {
-      "value": "ImpressArt"
-    },
-    "headquarters": {
-      "value": "-"
-    },
-    "website": {
-      "value": "stampseed.com",
-      "url": "https://www.stampseed.com/"
-    },
-    "blog": {
-      "value": "-"
-    },
-    "twitter": {
-      "value": "@Stamp_Seed",
-      "url": "https://x.com/Stamp_Seed"
-    },
-    "nostr": {
-      "value": "-"
-    },
-    "youtube": {
-      "value": "-"
-    }
-  },
+  "company": "impress-art",
   "payment-methods": {
     "btc-on-chain": {
       "value": "NO",

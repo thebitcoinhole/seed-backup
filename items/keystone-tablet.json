@@ -3,33 +3,7 @@
   "name": "Tablet",
   "full-name": "Keystone Tablet",
   "purchasable": true,
-  "company": {
-    "brand": {
-      "value": "Keystone"
-    },
-    "headquarters": {
-      "value": "Hong Kong"
-    },
-    "website": {
-      "value": "keyst.one",
-      "url": "https://keyst.one/"
-    },
-    "blog": {
-      "value": "blog.keyst.one",
-      "url": "https://blog.keyst.one/"
-    },
-    "twitter": {
-      "value": "@KeystoneWallet",
-      "url": "https://x.com/KeystoneWallet"
-    },
-    "nostr": {
-      "value": "-"
-    },
-    "youtube": {
-      "value": "@KeystoneWallet",
-      "url": "https://www.youtube.com/@KeystoneWallet"
-    }
-  },
+  "company": "keystone",
   "payment-methods": {
     "btc-on-chain": {
       "value": "YES (via Open Node or Coinbase Commerce)",

@@ -3,33 +3,7 @@
   "name": "Keep Metal (Shamir Backup)",
   "full-name": "Trezor Keep Metal (Shamir Backup)",
   "purchasable": true,
-  "company": {
-    "brand": {
-      "value": "Trezor"
-    },
-    "headquarters": {
-      "value": "Czech Republic"
-    },
-    "website": {
-      "value": "trezor.io",
-      "url": "https://trezor.io/"
-    },
-    "blog": {
-      "value": "blog.trezor.io",
-      "url": "https://blog.trezor.io/"
-    },
-    "twitter": {
-      "value": "@TREZOR",
-      "url": "https://x.com/TREZOR"
-    },
-    "nostr": {
-      "value": "-"
-    },
-    "youtube": {
-      "value": "@TrezorWallet",
-      "url": "https://www.youtube.com/@TrezorWallet"
-    }
-  },
+  "company": "trezor",
   "payment-methods": {
     "btc-on-chain": {
       "value": "YES (via Confirmo.net)",
